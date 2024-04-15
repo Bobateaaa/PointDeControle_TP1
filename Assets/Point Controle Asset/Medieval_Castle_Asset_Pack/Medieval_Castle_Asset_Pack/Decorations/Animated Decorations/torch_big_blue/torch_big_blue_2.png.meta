@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      torch_big_blue_2_0: -2460896707952292689
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

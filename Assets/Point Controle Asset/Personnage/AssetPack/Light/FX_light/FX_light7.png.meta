@@ -167,7 +167,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FX_light7_0: 6734699213932537935
+      FX_light7_1: -3780029302437332298
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

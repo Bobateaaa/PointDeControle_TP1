@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      candle_blue_1_3_0: -4032374332489528481
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

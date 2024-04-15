@@ -167,7 +167,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      roll15_0: -1891590085437838788
+      roll15_1: 7535013425009835124
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

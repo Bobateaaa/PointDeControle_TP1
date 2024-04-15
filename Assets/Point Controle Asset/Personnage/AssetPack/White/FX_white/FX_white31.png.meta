@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FX_white31_0: 3226608143556753025
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

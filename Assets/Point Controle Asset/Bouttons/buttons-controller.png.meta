@@ -1559,7 +1559,67 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      buttons-controller_0: 4855355493417604381
+      buttons-controller_1: 2992621084949896148
+      buttons-controller_10: 8610365067352009763
+      buttons-controller_11: 6407997705395521583
+      buttons-controller_12: 966035296641672576
+      buttons-controller_13: -8326121692734177339
+      buttons-controller_14: 1385042158841077554
+      buttons-controller_15: -762586665653014175
+      buttons-controller_16: 6444302892856558786
+      buttons-controller_17: -6384252447068432131
+      buttons-controller_18: 600216410737488874
+      buttons-controller_19: -590245768487726521
+      buttons-controller_2: 5510450917146060938
+      buttons-controller_20: 1369879643736133003
+      buttons-controller_21: -1768782460196004906
+      buttons-controller_22: 9159037901689743839
+      buttons-controller_23: -4672219524728129872
+      buttons-controller_24: 9061329650818767118
+      buttons-controller_25: 6334215554020222886
+      buttons-controller_26: 3386597055738376506
+      buttons-controller_27: 375484047116172134
+      buttons-controller_28: 8762965777032227037
+      buttons-controller_29: 6729918786766347908
+      buttons-controller_3: -2235413163931430905
+      buttons-controller_30: 6114421660717519854
+      buttons-controller_31: 7715454385708235738
+      buttons-controller_32: 2641047529918469106
+      buttons-controller_33: 3844569070565783385
+      buttons-controller_34: -957521064489820999
+      buttons-controller_35: -3247006552417789194
+      buttons-controller_36: -2971066576143116137
+      buttons-controller_37: 8833134425196177650
+      buttons-controller_38: 2119325595911920578
+      buttons-controller_39: -834808709080907117
+      buttons-controller_4: -4622591607844810961
+      buttons-controller_40: -759045364344554693
+      buttons-controller_41: -3530216747616654463
+      buttons-controller_42: 7351783171721490055
+      buttons-controller_43: -823778452947352902
+      buttons-controller_44: 3680652338594322950
+      buttons-controller_45: -2904326827691425386
+      buttons-controller_46: 1955872601758507460
+      buttons-controller_47: 4178852012726882024
+      buttons-controller_48: -7778484192019287112
+      buttons-controller_49: 1000092672402187742
+      buttons-controller_5: 5025954814468649673
+      buttons-controller_50: -4317637847435984386
+      buttons-controller_51: 6427702987118318372
+      buttons-controller_52: -8526237922124607093
+      buttons-controller_53: -9042202103610713270
+      buttons-controller_54: 4947274615093951864
+      buttons-controller_55: 7229959459274668691
+      buttons-controller_56: -2503002310678920650
+      buttons-controller_57: 5117799575009523645
+      buttons-controller_58: -4963870924468502254
+      buttons-controller_59: -1647004265027863403
+      buttons-controller_6: -5610706402528180939
+      buttons-controller_7: 6125974606282101175
+      buttons-controller_8: -993699692298450232
+      buttons-controller_9: 7327322469459609494
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

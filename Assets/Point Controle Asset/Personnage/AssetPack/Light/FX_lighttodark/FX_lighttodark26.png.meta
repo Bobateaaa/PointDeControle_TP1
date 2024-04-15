@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FX_lighttodark26_0: 5678386052421295853
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      How to Export in Rows by Tags in Aseprite_0: 412200511452522649
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

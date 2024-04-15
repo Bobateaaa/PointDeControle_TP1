@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      walk_knight_2_0: -3177679200319405963
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -167,7 +167,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      country-platform-tileset_0: -5816875866298116881
+      country-platform-tileset_1: 6602404767879418991
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
