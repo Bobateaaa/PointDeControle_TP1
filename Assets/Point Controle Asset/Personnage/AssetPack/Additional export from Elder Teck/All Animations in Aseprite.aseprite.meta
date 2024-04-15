@@ -1,0 +1,4871 @@
+fileFormatVersion: 2
+guid: 9fd6e7a91738e9146a52c281a0acbd50
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: All Animations in Aseprite_Frame_156
+    originalName: 
+    pivot: {x: 0.48913044, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 172
+      y: 61
+      width: 46
+      height: 40
+    spriteID: 2c355ff993cb5354cbd4960fa28d4f4d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 61}
+  - name: All Animations in Aseprite_Frame_157
+    originalName: 
+    pivot: {x: 0.5119048, y: -0.047619052}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 226
+      y: 61
+      width: 42
+      height: 42
+    spriteID: 3b8abd62c07ceef4794dbb69f9c71d0a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 216, y: 59}
+  - name: All Animations in Aseprite_Frame_158
+    originalName: 
+    pivot: {x: 0.5212766, y: -0.06818182}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 61
+      width: 47
+      height: 44
+    spriteID: 48430bca1a05146429845365b28da1bf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 58}
+  - name: All Animations in Aseprite_Frame_159
+    originalName: 
+    pivot: {x: 0.52040815, y: -0.09090909}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 378
+      y: 4
+      width: 49
+      height: 44
+    spriteID: 4e98c17beb33a1c499708cac4644da4b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 372, y: 0}
+  - name: All Animations in Aseprite_Frame_160
+    originalName: 
+    pivot: {x: 0.52040815, y: -0.11363637}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 435
+      y: 4
+      width: 49
+      height: 44
+    spriteID: 2517d8d10f3c8ab4ca1f7fb064ddd7e6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 429, y: -1}
+  - name: All Animations in Aseprite_Frame_161
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.11111111}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 257
+      y: 4
+      width: 49
+      height: 45
+    spriteID: cbf5a49a804b2244f81d94c49c49653a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 250, y: -1}
+  - name: All Animations in Aseprite_Frame_162
+    originalName: 
+    pivot: {x: 0.45348835, y: -0.24390246}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 276
+      y: 61
+      width: 43
+      height: 41
+    spriteID: 4747d0982cf7e4947a8245e0d5dea3e6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 264, y: 51}
+  - name: All Animations in Aseprite_Frame_163
+    originalName: 
+    pivot: {x: 0.45348835, y: -0.275}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 327
+      y: 61
+      width: 43
+      height: 40
+    spriteID: c9b54bb4b361ae74da9fb346a7025ca8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 315, y: 50}
+  - name: All Animations in Aseprite_Frame_164
+    originalName: 
+    pivot: {x: 0.48749998, y: -0.275}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 378
+      y: 61
+      width: 40
+      height: 40
+    spriteID: 41671026e7ac27740a5d2c22deb6680d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 366, y: 50}
+  - name: All Animations in Aseprite_Frame_165
+    originalName: 
+    pivot: {x: 0.48749998, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 426
+      y: 61
+      width: 40
+      height: 40
+    spriteID: 6c929d13b1f84d74094f6609795cd77b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 414, y: 49}
+  - name: All Animations in Aseprite_Frame_166
+    originalName: 
+    pivot: {x: 0.65, y: -0.3529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 148
+      width: 30
+      height: 34
+    spriteID: 3bd0d1a56ac5d8244af07cc58695bc82
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 42, y: 136}
+  - name: All Animations in Aseprite_Frame_167
+    originalName: 
+    pivot: {x: 0.49999994, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 370
+      y: 190
+      width: 21
+      height: 18
+    spriteID: 63ada48f6506a1c43a438d29787ddc25
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 369, y: 187}
+  - name: All Animations in Aseprite_Frame_168
+    originalName: 
+    pivot: {x: 0.5227273, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 340
+      y: 190
+      width: 22
+      height: 18
+    spriteID: 51e0f6662c99a0e47955dfc7e486be27
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 340, y: 187}
+  - name: All Animations in Aseprite_Frame_0
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 358
+      y: 297
+      width: 15
+      height: 18
+    spriteID: 444c8d542a17ced479fb0b53466b650d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 358, y: 297}
+  - name: All Animations in Aseprite_Frame_1
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 381
+      y: 297
+      width: 15
+      height: 18
+    spriteID: 3faec566d783e014083cf7d2e5d5a0ed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 381, y: 297}
+  - name: All Animations in Aseprite_Frame_2
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 297
+      width: 15
+      height: 18
+    spriteID: e0ab645172e87374cb00c7b407f646ce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 297}
+  - name: All Animations in Aseprite_Frame_6
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 297
+      width: 15
+      height: 18
+    spriteID: 86afc8691eaac774395eae3ffb89ef5c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: 297}
+  - name: All Animations in Aseprite_Frame_7
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 450
+      y: 297
+      width: 15
+      height: 18
+    spriteID: 0bdf9f3b74d632b4696690373b6c46da
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 450, y: 297}
+  - name: All Animations in Aseprite_Frame_8
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 473
+      y: 297
+      width: 15
+      height: 18
+    spriteID: e6ca037a2154f96458cefc1c5b3c8658
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 473, y: 297}
+  - name: All Animations in Aseprite_Frame_9
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 143
+      y: 378
+      width: 15
+      height: 18
+    spriteID: 4bd9591b6be67c1458807c7f4f5d56d7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 143, y: 378}
+  - name: All Animations in Aseprite_Frame_10
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 378
+      width: 15
+      height: 18
+    spriteID: 8c7463f37eb19a14abcf030a55e98069
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 166, y: 378}
+  - name: All Animations in Aseprite_Frame_11
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 189
+      y: 378
+      width: 15
+      height: 18
+    spriteID: 80c6dc1bd83f9ad479dab03c5a4e98e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 189, y: 378}
+  - name: All Animations in Aseprite_Frame_12
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 212
+      y: 378
+      width: 15
+      height: 18
+    spriteID: 86d1ad4f69af6a14d95533259415085f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 212, y: 378}
+  - name: All Animations in Aseprite_Frame_13
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 235
+      y: 378
+      width: 15
+      height: 18
+    spriteID: 13af46a9b2258eb49b6655e0193bcf95
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 235, y: 378}
+  - name: All Animations in Aseprite_Frame_16
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 258
+      y: 378
+      width: 15
+      height: 18
+    spriteID: df2474e682a22ef47aea450df8a53c60
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 258, y: 378}
+  - name: All Animations in Aseprite_Frame_17
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 281
+      y: 378
+      width: 15
+      height: 18
+    spriteID: 1428a3720294f6d448b655071f49d6ff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 281, y: 378}
+  - name: All Animations in Aseprite_Frame_18
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 378
+      width: 15
+      height: 18
+    spriteID: 2a6d1fc76e12b934f82f9b475b04bff3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 304, y: 378}
+  - name: All Animations in Aseprite_Frame_19
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 327
+      y: 378
+      width: 15
+      height: 18
+    spriteID: a860441315ca1474b93c0510d2805e76
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 327, y: 378}
+  - name: All Animations in Aseprite_Frame_20
+    originalName: 
+    pivot: {x: 0.38235298, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 491
+      y: 240
+      width: 17
+      height: 18
+    spriteID: 1501f58660c7fa24c90fd63e6a560b8c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 491, y: 240}
+  - name: All Animations in Aseprite_Frame_21
+    originalName: 
+    pivot: {x: 0.28125, y: -0.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 283
+      y: 240
+      width: 16
+      height: 20
+    spriteID: 9657c0e6ad807a64fbc43992145a9051
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 281, y: 240}
+  - name: All Animations in Aseprite_Frame_22
+    originalName: 
+    pivot: {x: 0.16666666, y: -0.65}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 350
+      width: 15
+      height: 20
+    spriteID: 3763f2439237f0e4fa411929ff2b19f4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 349}
+  - name: All Animations in Aseprite_Frame_23
+    originalName: 
+    pivot: {x: 0.21874993, y: -0.65}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 307
+      y: 240
+      width: 16
+      height: 20
+    spriteID: 2b8dc1f465b015c4d8f33ff6f7f7b0d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 304, y: 239}
+  - name: All Animations in Aseprite_Frame_24
+    originalName: 
+    pivot: {x: 0.32352936, y: -0.631579}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 240
+      width: 17
+      height: 19
+    spriteID: e7167ff1d804b5b44970fdf4856397bf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 207, y: 240}
+  - name: All Animations in Aseprite_Frame_25
+    originalName: 
+    pivot: {x: 0.38235298, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 297
+      width: 17
+      height: 18
+    spriteID: 25444266d05e70e47b4f5c4282116dc6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 297}
+  - name: All Animations in Aseprite_Frame_26
+    originalName: 
+    pivot: {x: 0.28125, y: -0.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 331
+      y: 240
+      width: 16
+      height: 20
+    spriteID: 5b7586d5ca867da4386c61ec2ef05e5e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 329, y: 240}
+  - name: All Animations in Aseprite_Frame_27
+    originalName: 
+    pivot: {x: 0.16666666, y: -0.65}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 105
+      y: 350
+      width: 15
+      height: 20
+    spriteID: ab8f482f1fdfb9149a0f45675da9cc98
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 101, y: 349}
+  - name: All Animations in Aseprite_Frame_28
+    originalName: 
+    pivot: {x: 0.21874993, y: -0.65}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 355
+      y: 240
+      width: 16
+      height: 20
+    spriteID: 354c2d988c30a774a9d382bc988d8e4d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 352, y: 239}
+  - name: All Animations in Aseprite_Frame_29
+    originalName: 
+    pivot: {x: 0.32352936, y: -0.631579}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 233
+      y: 240
+      width: 17
+      height: 19
+    spriteID: 23c69681114befb428ef82d458e9f0f1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 232, y: 240}
+  - name: All Animations in Aseprite_Frame_30
+    originalName: 
+    pivot: {x: 0.74999994, y: -0.4615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 35
+      y: 181
+      width: 10
+      height: 26
+    spriteID: 40e658d9f1bf71841a766700cf02a754
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 35, y: 181}
+  - name: All Animations in Aseprite_Frame_31
+    originalName: 
+    pivot: {x: 0.74999994, y: -0.4615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 411
+      width: 10
+      height: 26
+    spriteID: 46ce42575896ade4aaea37482a4fcf4b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 411}
+  - name: All Animations in Aseprite_Frame_32
+    originalName: 
+    pivot: {x: 0.74999994, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 137
+      y: 411
+      width: 10
+      height: 24
+    spriteID: ad3df4e34b8afd44ead32304ecca9b69
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 137, y: 411}
+  - name: All Animations in Aseprite_Frame_33
+    originalName: 
+    pivot: {x: 0.74999994, y: -0.48000002}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 100
+      y: 411
+      width: 10
+      height: 25
+    spriteID: f1900e60d3b1e2240960918d81460cbe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 100, y: 411}
+  - name: All Animations in Aseprite_Frame_34
+    originalName: 
+    pivot: {x: 0.5227273, y: -0.631579}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 469
+      y: 113
+      width: 22
+      height: 19
+    spriteID: d20c1fc061cb8364a93e3ff0daceb8ba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 469, y: 113}
+  - name: All Animations in Aseprite_Frame_35
+    originalName: 
+    pivot: {x: 0.49999994, y: -0.631579}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 282
+      y: 190
+      width: 21
+      height: 19
+    spriteID: 4ed315d75fde70945a854bcc70fcc90c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 281, y: 190}
+  - name: All Animations in Aseprite_Frame_36
+    originalName: 
+    pivot: {x: 0.49999994, y: -0.631579}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 311
+      y: 190
+      width: 21
+      height: 19
+    spriteID: cc66cf9c1c19c09439e9457fde175981
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 310, y: 190}
+  - name: All Animations in Aseprite_Frame_37
+    originalName: 
+    pivot: {x: 0.5227273, y: -0.631579}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 190
+      width: 22
+      height: 19
+    spriteID: e71188c82e475ce40a5734fd3aac43e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 190}
+  - name: All Animations in Aseprite_Frame_38
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.6818182}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 307
+      width: 17
+      height: 22
+    spriteID: 9293759f4a3db5e42a9e99e8b0abb11f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 54, y: 304}
+  - name: All Animations in Aseprite_Frame_39
+    originalName: 
+    pivot: {x: 0.22727272, y: -0.6818182}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 118
+      y: 411
+      width: 11
+      height: 22
+    spriteID: 6ee301af031a180449e08aac92d1f367
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 408}
+  - name: All Animations in Aseprite_Frame_40
+    originalName: 
+    pivot: {x: 0.34615386, y: -0.6818182}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 122
+      y: 378
+      width: 13
+      height: 22
+    spriteID: 6eed72870dc130e45958ef812e2a7b07
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 118, y: 375}
+  - name: All Animations in Aseprite_Frame_41
+    originalName: 
+    pivot: {x: 0.43333337, y: -0.6818182}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 427
+      width: 15
+      height: 22
+    spriteID: ceedc5c2699238b4a8ec9d6b8eaf758c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 424}
+  - name: All Animations in Aseprite_Frame_42
+    originalName: 
+    pivot: {x: 0.46874997, y: -0.5416666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 275
+      width: 16
+      height: 24
+    spriteID: 4e32ac80fe357524bb0487fb9b9334db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 53, y: 274}
+  - name: All Animations in Aseprite_Frame_43
+    originalName: 
+    pivot: {x: 0.3928571, y: -0.5416666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 395
+      width: 14
+      height: 24
+    spriteID: 04935f5416fd6f04192e1ac3e17f0c8e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 51, y: 394}
+  - name: All Animations in Aseprite_Frame_44
+    originalName: 
+    pivot: {x: 0.34615386, y: -0.48000002}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 457
+      width: 13
+      height: 25
+    spriteID: 2387671512bb9544abe6d0ff7710cd4b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 457}
+  - name: All Animations in Aseprite_Frame_45
+    originalName: 
+    pivot: {x: 0.3928571, y: -0.48000002}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 337
+      width: 14
+      height: 25
+    spriteID: 790850b6e466adc47b1e1ff348c3f891
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 51, y: 337}
+  - name: All Animations in Aseprite_Frame_46
+    originalName: 
+    pivot: {x: 0.34615386, y: -0.48000002}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 240
+      width: 13
+      height: 25
+    spriteID: 759cd1dbab0c06b4393e5cd85fe54dff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 240}
+  - name: All Animations in Aseprite_Frame_47
+    originalName: 
+    pivot: {x: 0.34615386, y: -0.48000002}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 103
+      y: 240
+      width: 13
+      height: 25
+    spriteID: 6beaef694fb0a9b45aeaffab17f42a24
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 99, y: 240}
+  - name: All Animations in Aseprite_Frame_48
+    originalName: 
+    pivot: {x: 0.34615386, y: -0.48000002}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 240
+      width: 13
+      height: 25
+    spriteID: 659caa0087cd08047a84251f6182c26d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 240}
+  - name: All Animations in Aseprite_Frame_49
+    originalName: 
+    pivot: {x: 0.34615386, y: -0.48000002}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 240
+      width: 13
+      height: 25
+    spriteID: c9c0ae9914a8cda4fa5669606993027a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 141, y: 240}
+  - name: All Animations in Aseprite_Frame_50
+    originalName: 
+    pivot: {x: 0.34615386, y: -0.48000002}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 240
+      width: 13
+      height: 25
+    spriteID: b748693c69752d349a94a5ffbbc5ec93
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 162, y: 240}
+  - name: All Animations in Aseprite_Frame_51
+    originalName: 
+    pivot: {x: 0.42307687, y: -0.67999995}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 187
+      y: 240
+      width: 13
+      height: 25
+    spriteID: decd2240c968af640ba91def4eed7d28
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 187, y: 240}
+  - name: All Animations in Aseprite_Frame_52
+    originalName: 
+    pivot: {x: 0.375, y: -0.67999995}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 378
+      width: 12
+      height: 25
+    spriteID: a7015b95fbd7ccb449a5a14f304af777
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 81, y: 378}
+  - name: All Animations in Aseprite_Frame_53
+    originalName: 
+    pivot: {x: 0.375, y: -0.67999995}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 378
+      width: 12
+      height: 25
+    spriteID: f6ae9e2bd0cad2f43b27b90b1dd16c4f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 101, y: 378}
+  - name: All Animations in Aseprite_Frame_54
+    originalName: 
+    pivot: {x: 0.40909094, y: -0.67999995}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 35
+      y: 336
+      width: 11
+      height: 25
+    spriteID: 8c379de93d935a34d876ddce3a449f79
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 336}
+  - name: All Animations in Aseprite_Frame_55
+    originalName: 
+    pivot: {x: 0.43333337, y: -0.42857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 239
+      width: 15
+      height: 28
+    spriteID: 5b94505bb860f3f48983dd6d337c2cb7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 54, y: 239}
+  - name: All Animations in Aseprite_Frame_56
+    originalName: 
+    pivot: {x: 0.43333337, y: -0.41379312}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 484
+      y: 148
+      width: 15
+      height: 29
+    spriteID: 58b3725435d84d546bf6fcb2f1278138
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 484, y: 148}
+  - name: All Animations in Aseprite_Frame_57
+    originalName: 
+    pivot: {x: 0.40625003, y: -0.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 492
+      y: 4
+      width: 16
+      height: 30
+    spriteID: 0a958ff64bc63244dbb759d7ea8e73e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 492, y: 4}
+  - name: All Animations in Aseprite_Frame_58
+    originalName: 
+    pivot: {x: 0.40625003, y: -0.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 346
+      y: 148
+      width: 16
+      height: 30
+    spriteID: 73857693c2bc7e34bb1df2d7d07a8f6c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 346, y: 148}
+  - name: All Animations in Aseprite_Frame_60
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 350
+      y: 378
+      width: 15
+      height: 18
+    spriteID: 08e9b378404cbc04f81f31d8bc342a37
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 347, y: 378}
+  - name: All Animations in Aseprite_Frame_61
+    originalName: 
+    pivot: {x: 0.525, y: -0.7058824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 370
+      width: 20
+      height: 17
+    spriteID: 4cd306d91351f1441850d8b97e669f0d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 54, y: 370}
+  - name: All Animations in Aseprite_Frame_62
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.85714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 262
+      y: 323
+      width: 17
+      height: 14
+    spriteID: 06ab678c516ec264b8b3e44494c27f9f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 260, y: 323}
+  - name: All Animations in Aseprite_Frame_63
+    originalName: 
+    pivot: {x: 0.375, y: -1.0909091}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 492
+      y: 42
+      width: 12
+      height: 11
+    spriteID: 69ff59d2e54d9f34f87af933e60eadbb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 486, y: 42}
+  - name: All Animations in Aseprite_Frame_64
+    originalName: 
+    pivot: {x: 0.29166657, y: -1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 496
+      y: 297
+      width: 12
+      height: 12
+    spriteID: 44f40db5c3dae424087be89c6f4a0523
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 489, y: 297}
+  - name: All Animations in Aseprite_Frame_65
+    originalName: 
+    pivot: {x: 0.43333337, y: -1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 287
+      y: 323
+      width: 15
+      height: 12
+    spriteID: ae8be3233323edd45b0e8d33340f9868
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 283, y: 323}
+  - name: All Animations in Aseprite_Frame_66
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.7058824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 237
+      y: 297
+      width: 17
+      height: 17
+    spriteID: 03293318b0987eb45a7c092c65aca74c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 235, y: 297}
+  - name: All Animations in Aseprite_Frame_67
+    originalName: 
+    pivot: {x: 0.5588235, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 107
+      y: 297
+      width: 17
+      height: 18
+    spriteID: ca6ba9d3d67d40f49a1bd497215997be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 106, y: 297}
+  - name: All Animations in Aseprite_Frame_68
+    originalName: 
+    pivot: {x: 0.40625003, y: -0.8}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 238
+      y: 323
+      width: 16
+      height: 15
+    spriteID: c6017a9feaf51d8428182a25db22607b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 234, y: 323}
+  - name: All Animations in Aseprite_Frame_69
+    originalName: 
+    pivot: {x: 0.32500002, y: -0.8}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 209
+      y: 297
+      width: 20
+      height: 15
+    spriteID: 725740780fd4ca0479fb15c454172338
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 205, y: 297}
+  - name: All Animations in Aseprite_Frame_70
+    originalName: 
+    pivot: {x: 0.36111113, y: -0.8}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 373
+      y: 378
+      width: 18
+      height: 15
+    spriteID: f3913670340d5a74a929ce19b502d82e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 369, y: 378}
+  - name: All Animations in Aseprite_Frame_71
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.631579}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 258
+      y: 240
+      width: 17
+      height: 19
+    spriteID: dc72366bdd4f0c043ad9265d7b86a132
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 256, y: 240}
+  - name: All Animations in Aseprite_Frame_72
+    originalName: 
+    pivot: {x: 0.53125006, y: -0.631579}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 323
+      width: 16
+      height: 19
+    spriteID: 6043ba69c657eb445a6458c362ec070c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 80, y: 323}
+  - name: All Animations in Aseprite_Frame_73
+    originalName: 
+    pivot: {x: 0.5588235, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 297
+      width: 17
+      height: 18
+    spriteID: 1619dd437c8c6044aaab99a9659e4428
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 297}
+  - name: All Animations in Aseprite_Frame_74
+    originalName: 
+    pivot: {x: 0.47222224, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 490
+      width: 18
+      height: 18
+    spriteID: 168c949aabc87634fa8958e0dffd2d54
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 490}
+  - name: All Animations in Aseprite_Frame_75
+    originalName: 
+    pivot: {x: 0.44736847, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 486
+      y: 190
+      width: 19
+      height: 18
+    spriteID: 712c0492d3897e64689706acd47def03
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 484, y: 190}
+  - name: All Animations in Aseprite_Frame_76
+    originalName: 
+    pivot: {x: 0.44117644, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 157
+      y: 297
+      width: 17
+      height: 18
+    spriteID: 1859cb6a30697284c88ac73934c2eb8b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 154, y: 297}
+  - name: All Animations in Aseprite_Frame_77
+    originalName: 
+    pivot: {x: 0.46874997, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 262
+      y: 297
+      width: 16
+      height: 18
+    spriteID: aefd55ea7b4cf5940ab02bc7c30bf6dc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 259, y: 297}
+  - name: All Animations in Aseprite_Frame_79
+    originalName: 
+    pivot: {x: 0.53571427, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 473
+      y: 350
+      width: 14
+      height: 18
+    spriteID: 5a661fdaae090a049bf9589e7b50a7aa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 466, y: 350}
+  - name: All Animations in Aseprite_Frame_80
+    originalName: 
+    pivot: {x: 0.24999999, y: -0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 159
+      y: 113
+      width: 50
+      height: 16
+    spriteID: db3fac30c2d30d7438b15bfe60dde6ce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 157, y: 113}
+  - name: All Animations in Aseprite_Frame_81
+    originalName: 
+    pivot: {x: 0.5, y: -0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 488
+      width: 29
+      height: 16
+    spriteID: 2645cfa5b31e33c49a0c0289e352c930
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 488}
+  - name: All Animations in Aseprite_Frame_82
+    originalName: 
+    pivot: {x: 0.51785713, y: -0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 217
+      y: 113
+      width: 28
+      height: 16
+    spriteID: 546420b10defa894787fbb771b975e6f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 217, y: 113}
+  - name: All Animations in Aseprite_Frame_83
+    originalName: 
+    pivot: {x: 0.537037, y: -0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 327
+      y: 113
+      width: 27
+      height: 16
+    spriteID: 2394bbada098de9418da39528cb0466f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 327, y: 113}
+  - name: All Animations in Aseprite_Frame_84
+    originalName: 
+    pivot: {x: 0.5576923, y: -0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 190
+      width: 26
+      height: 16
+    spriteID: 3886832c22be6cf439c4bd52c745a0e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 190}
+  - name: All Animations in Aseprite_Frame_85
+    originalName: 
+    pivot: {x: 0.5576923, y: -0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 190
+      width: 26
+      height: 16
+    spriteID: 9053d2ae4a6397e46a290cb1a1e37563
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 146, y: 190}
+  - name: All Animations in Aseprite_Frame_86
+    originalName: 
+    pivot: {x: 0.5576923, y: -0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 190
+      width: 26
+      height: 16
+    spriteID: 7ad5dbb516de96f49b41f70b65abb864
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 180, y: 190}
+  - name: All Animations in Aseprite_Frame_87
+    originalName: 
+    pivot: {x: 0.5576923, y: -0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 214
+      y: 190
+      width: 26
+      height: 16
+    spriteID: 43a9501ac0490fc4b8c0c1ff3d0d8de0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 190}
+  - name: All Animations in Aseprite_Frame_88
+    originalName: 
+    pivot: {x: 0.5576923, y: -0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 248
+      y: 190
+      width: 26
+      height: 16
+    spriteID: e441244b2fab73345a56f235a589cc16
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 248, y: 190}
+  - name: All Animations in Aseprite_Frame_89
+    originalName: 
+    pivot: {x: 0.537037, y: -0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 362
+      y: 113
+      width: 27
+      height: 16
+    spriteID: 1112b838b050d7b439e86c04f8a7321b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 362, y: 113}
+  - name: All Animations in Aseprite_Frame_90
+    originalName: 
+    pivot: {x: 0.19318184, y: -0.5714286}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 107
+      y: 113
+      width: 44
+      height: 21
+    spriteID: 6f487d03745a41e4882398566449c7bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 101, y: 113}
+  - name: All Animations in Aseprite_Frame_91
+    originalName: 
+    pivot: {x: 0.4772727, y: -0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 456
+      y: 190
+      width: 22
+      height: 16
+    spriteID: 6bbf2e0e8d827cc41a812098bbfa2f5b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 452, y: 190}
+  - name: All Animations in Aseprite_Frame_92
+    originalName: 
+    pivot: {x: 0.49999994, y: -0.7058824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 190
+      width: 21
+      height: 17
+    spriteID: 280b4abb9f18da2469332321eca71283
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 423, y: 190}
+  - name: All Animations in Aseprite_Frame_93
+    originalName: 
+    pivot: {x: 0.525, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 399
+      y: 190
+      width: 20
+      height: 18
+    spriteID: 42bef0c6fb699cc4c91c8bbcca10cc79
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 395, y: 190}
+  - name: All Animations in Aseprite_Frame_94
+    originalName: 
+    pivot: {x: 0.525, y: -0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 379
+      y: 240
+      width: 20
+      height: 16
+    spriteID: be5ee8281b6d25c458a3a29c50e1f698
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 375, y: 240}
+  - name: All Animations in Aseprite_Frame_95
+    originalName: 
+    pivot: {x: 0.525, y: -0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 407
+      y: 240
+      width: 20
+      height: 16
+    spriteID: 3bff82fc4f7d4a64ea5e7f639924e424
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 403, y: 240}
+  - name: All Animations in Aseprite_Frame_96
+    originalName: 
+    pivot: {x: 0.525, y: -0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 435
+      y: 240
+      width: 20
+      height: 16
+    spriteID: b0e2fe0f76e6e674f94c955c246e1894
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 431, y: 240}
+  - name: All Animations in Aseprite_Frame_97
+    originalName: 
+    pivot: {x: 0.525, y: -0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 463
+      y: 240
+      width: 20
+      height: 16
+    spriteID: c9d3c520f9caa284a92eca81922fe10d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 459, y: 240}
+  - name: All Animations in Aseprite_Frame_98
+    originalName: 
+    pivot: {x: 0.525, y: -0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 273
+      width: 20
+      height: 16
+    spriteID: e4fd25a413d9b0f4fbe25d49e7c2b8d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 273}
+  - name: All Animations in Aseprite_Frame_99
+    originalName: 
+    pivot: {x: 0.44736847, y: -0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 182
+      y: 297
+      width: 19
+      height: 16
+    spriteID: 652f5c6a0c7e3cd41a318bc13a9fe8f1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 176, y: 297}
+  - name: All Animations in Aseprite_Frame_100
+    originalName: 
+    pivot: {x: 0.3222222, y: -0.44444445}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 113
+      width: 45
+      height: 27
+    spriteID: 881596813e5d4184285354939c26172d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 54, y: 113}
+  - name: All Animations in Aseprite_Frame_101
+    originalName: 
+    pivot: {x: 0.10869564, y: -0.8}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 217
+      width: 23
+      height: 15
+    spriteID: 868da610eda1a2f419453a2a9ab445b0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 217}
+  - name: All Animations in Aseprite_Frame_102
+    originalName: 
+    pivot: {x: 0.15217386, y: -0.8}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 113
+      y: 217
+      width: 23
+      height: 15
+    spriteID: 321ea2dfa33b27a44a6ad90799e72f94
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 217}
+  - name: All Animations in Aseprite_Frame_103
+    originalName: 
+    pivot: {x: 0.26785713, y: -0.8}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 397
+      y: 113
+      width: 28
+      height: 15
+    spriteID: ce660cf8ced08ed468a80094946034a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 390, y: 113}
+  - name: All Animations in Aseprite_Frame_104
+    originalName: 
+    pivot: {x: 0.2931035, y: -0.8}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 253
+      y: 113
+      width: 29
+      height: 15
+    spriteID: b307575ebcb34864b97cf9dc541b3e74
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 247, y: 113}
+  - name: All Animations in Aseprite_Frame_105
+    originalName: 
+    pivot: {x: 0.26785713, y: -0.8}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 433
+      y: 113
+      width: 28
+      height: 15
+    spriteID: ba9423d64b61b4c4ca167a6fe671ac53
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 426, y: 113}
+  - name: All Animations in Aseprite_Frame_106
+    originalName: 
+    pivot: {x: 0.2931035, y: -0.8}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 290
+      y: 113
+      width: 29
+      height: 15
+    spriteID: fa35c284f6c5ed24ab2e8f9489bae392
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 284, y: 113}
+  - name: All Animations in Aseprite_Frame_107
+    originalName: 
+    pivot: {x: 0.31666666, y: -0.8}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 370
+      y: 148
+      width: 30
+      height: 15
+    spriteID: c12697c725dad464581306d9aa8fffc4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 365, y: 148}
+  - name: All Animations in Aseprite_Frame_108
+    originalName: 
+    pivot: {x: 0.31666666, y: -0.8}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 408
+      y: 148
+      width: 30
+      height: 15
+    spriteID: 2d04ff9595d15d249aedc987b1d1b956
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 403, y: 148}
+  - name: All Animations in Aseprite_Frame_109
+    originalName: 
+    pivot: {x: 0.31666666, y: -0.8}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 446
+      y: 148
+      width: 30
+      height: 15
+    spriteID: 465ff52e1030fc142aead13f9de8b840
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 441, y: 148}
+  - name: All Animations in Aseprite_Frame_111
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 399
+      y: 378
+      width: 15
+      height: 18
+    spriteID: 4e9ca0b0fa767c94a9a3714bdadc94dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 399, y: 378}
+  - name: All Animations in Aseprite_Frame_112
+    originalName: 
+    pivot: {x: 0.43333337, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 422
+      y: 378
+      width: 15
+      height: 18
+    spriteID: 8fe6d9360902e6c46995f7ab265d88d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 421, y: 378}
+  - name: All Animations in Aseprite_Frame_113
+    originalName: 
+    pivot: {x: 0.43333337, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 445
+      y: 378
+      width: 15
+      height: 18
+    spriteID: 54d3ab668791d0142ad12cce165a3c2d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 444, y: 378}
+  - name: All Animations in Aseprite_Frame_114
+    originalName: 
+    pivot: {x: 0.43333337, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 468
+      y: 378
+      width: 15
+      height: 18
+    spriteID: 948be16e508f18e43ba1232aeab3e319
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 467, y: 378}
+  - name: All Animations in Aseprite_Frame_115
+    originalName: 
+    pivot: {x: 0.43333337, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 491
+      y: 378
+      width: 15
+      height: 18
+    spriteID: 8c2f8c1383350b640860b594606de6ab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 490, y: 378}
+  - name: All Animations in Aseprite_Frame_116
+    originalName: 
+    pivot: {x: 0.40625003, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 286
+      y: 297
+      width: 16
+      height: 18
+    spriteID: 194ec87db29bade42b0c01b5ac71d257
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 285, y: 297}
+  - name: All Animations in Aseprite_Frame_117
+    originalName: 
+    pivot: {x: 0.36666662, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 350
+      width: 15
+      height: 18
+    spriteID: 72172beb9555a794786fc36ace1614b4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 350}
+  - name: All Animations in Aseprite_Frame_118
+    originalName: 
+    pivot: {x: 0.3928571, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 106
+      y: 323
+      width: 14
+      height: 18
+    spriteID: 6a85b2b52de81304bb6a0fd83aca53c8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 104, y: 323}
+  - name: All Animations in Aseprite_Frame_119
+    originalName: 
+    pivot: {x: 0.3928571, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 323
+      width: 14
+      height: 18
+    spriteID: d09300be914b8654392abe26bba31b7d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 323}
+  - name: All Animations in Aseprite_Frame_120
+    originalName: 
+    pivot: {x: 0.43333337, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 350
+      width: 15
+      height: 18
+    spriteID: d3e0d7b1fa79ccd46b6668579012c1fa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 150, y: 350}
+  - name: All Animations in Aseprite_Frame_121
+    originalName: 
+    pivot: {x: 0.43333337, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 174
+      y: 350
+      width: 15
+      height: 18
+    spriteID: 49bad6dfdac18324e8d5ec4138ad0ed1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 173, y: 350}
+  - name: All Animations in Aseprite_Frame_122
+    originalName: 
+    pivot: {x: 0.43333337, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 197
+      y: 350
+      width: 15
+      height: 18
+    spriteID: 608ac25be3e7f8845a41017a59dcf363
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 196, y: 350}
+  - name: All Animations in Aseprite_Frame_123
+    originalName: 
+    pivot: {x: 0.43333337, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 350
+      width: 15
+      height: 18
+    spriteID: 6dff2808529e4324eb4afc3615aa6546
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 219, y: 350}
+  - name: All Animations in Aseprite_Frame_124
+    originalName: 
+    pivot: {x: 0.46428576, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 150
+      y: 323
+      width: 14
+      height: 18
+    spriteID: 2b53416796e7b7c40939db81c52ff076
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 323}
+  - name: All Animations in Aseprite_Frame_125
+    originalName: 
+    pivot: {x: 0.46428576, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 172
+      y: 323
+      width: 14
+      height: 18
+    spriteID: 670ebd72cabe2544e82ef0feae2ca397
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 171, y: 323}
+  - name: All Animations in Aseprite_Frame_126
+    originalName: 
+    pivot: {x: 0.46428576, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 323
+      width: 14
+      height: 18
+    spriteID: 8bc79e0270721d64081c569996c12b93
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 193, y: 323}
+  - name: All Animations in Aseprite_Frame_127
+    originalName: 
+    pivot: {x: 0.46428576, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 216
+      y: 323
+      width: 14
+      height: 18
+    spriteID: a555e9b3b55a91144ba5be51c1159915
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 215, y: 323}
+  - name: All Animations in Aseprite_Frame_128
+    originalName: 
+    pivot: {x: 0.46874997, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 310
+      y: 297
+      width: 16
+      height: 18
+    spriteID: 0707fab994a1328429466da57c56fcad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 310, y: 297}
+  - name: All Animations in Aseprite_Frame_129
+    originalName: 
+    pivot: {x: 0.46874997, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 334
+      y: 297
+      width: 16
+      height: 18
+    spriteID: c01498e46cc2c294c8e9b995ff2fa0cf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 334, y: 297}
+  - name: All Animations in Aseprite_Frame_131
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 243
+      y: 350
+      width: 15
+      height: 18
+    spriteID: c63a4fd6e7c9db44689b8bc21bc8f5ba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 239, y: 347}
+  - name: All Animations in Aseprite_Frame_132
+    originalName: 
+    pivot: {x: 0.58695656, y: -0.22222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 181
+      width: 23
+      height: 54
+    spriteID: 5c9a87d7803139e4f9209ca8e6d5fd7a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -14, y: 169}
+  - name: All Animations in Aseprite_Frame_133
+    originalName: 
+    pivot: {x: 0.41666663, y: -0.13207547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 61
+      width: 42
+      height: 53
+    spriteID: ec4e1a04d75dac94c99308253353e99b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -10, y: 54}
+  - name: All Animations in Aseprite_Frame_134
+    originalName: 
+    pivot: {x: 0.5092592, y: -0.12244898}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 54
+      height: 49
+    spriteID: d7b18764f877e814b851ed903b32167c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: -2}
+  - name: All Animations in Aseprite_Frame_135
+    originalName: 
+    pivot: {x: 0.5267857, y: -0.15}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 193
+      y: 4
+      width: 56
+      height: 40
+    spriteID: 3bf27a9b14f8bb842b0dfe2f2db63eeb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 191, y: -2}
+  - name: All Animations in Aseprite_Frame_136
+    originalName: 
+    pivot: {x: 0.51754385, y: -0.15}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 66
+      y: 4
+      width: 57
+      height: 40
+    spriteID: 7cb034e1d043b384986da85abd3a8dc1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: -2}
+  - name: All Animations in Aseprite_Frame_137
+    originalName: 
+    pivot: {x: 0.5648148, y: -0.14285715}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 131
+      y: 4
+      width: 54
+      height: 42
+    spriteID: 82ba321875bf84a40aeae74be8235406
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 130, y: -2}
+  - name: All Animations in Aseprite_Frame_138
+    originalName: 
+    pivot: {x: 0.55454546, y: -0.32432434}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 61
+      width: 55
+      height: 37
+    spriteID: a18f29732db5ce341b1492d52c1c719b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 49}
+  - name: All Animations in Aseprite_Frame_139
+    originalName: 
+    pivot: {x: 0.5625, y: -0.30769232}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 314
+      y: 4
+      width: 56
+      height: 39
+    spriteID: 9f3df42132f158d4ba522ab8259ae900
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 314, y: -8}
+  - name: All Animations in Aseprite_Frame_140
+    originalName: 
+    pivot: {x: 0.35185182, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 391
+      width: 27
+      height: 40
+    spriteID: 2225c7e217eccb24587fab2fc2f973dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -18, y: 379}
+  - name: All Animations in Aseprite_Frame_141
+    originalName: 
+    pivot: {x: 0.38, y: -0.29268295}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 439
+      width: 25
+      height: 41
+    spriteID: 382311a2e39751d4191904147db6ebee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -18, y: 427}
+  - name: All Animations in Aseprite_Frame_142
+    originalName: 
+    pivot: {x: 0.29999998, y: -0.23529413}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 122
+      width: 25
+      height: 51
+    spriteID: 5ecad20c7db3a7e4d997ef4dbe01186b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -20, y: 110}
+  - name: All Animations in Aseprite_Frame_143
+    originalName: 
+    pivot: {x: 0.19565217, y: -0.7446809}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 336
+      width: 23
+      height: 47
+    spriteID: 2be8079c0b71d6d43a928b16dc492201
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -23, y: 301}
+  - name: All Animations in Aseprite_Frame_144
+    originalName: 
+    pivot: {x: 0.30357146, y: -1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 243
+      width: 28
+      height: 42
+    spriteID: 8ace6c7cef4aec24c878f3a9c977f463
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -19, y: 201}
+  - name: All Animations in Aseprite_Frame_145
+    originalName: 
+    pivot: {x: 0.37096775, y: -0.95454544}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 474
+      y: 61
+      width: 31
+      height: 44
+    spriteID: 2ea096f3e778ed744936f9cc50f7e88b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 454, y: 19}
+  - name: All Animations in Aseprite_Frame_146
+    originalName: 
+    pivot: {x: 0.4032258, y: -1.4857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 293
+      width: 31
+      height: 35
+    spriteID: 6635e15c1e4c0e74d8bc026cbbbc8d84
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -15, y: 241}
+  - name: All Animations in Aseprite_Frame_147
+    originalName: 
+    pivot: {x: 0.6041666, y: -1.5588236}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 148
+      width: 24
+      height: 34
+    spriteID: 90e39a0784e070f4782858b4fee1589d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 75, y: 95}
+  - name: All Animations in Aseprite_Frame_148
+    originalName: 
+    pivot: {x: 0.6041666, y: -1.5882354}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 148
+      width: 24
+      height: 34
+    spriteID: e041d37e1766be64d9ecae442fa465b1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 107, y: 94}
+  - name: All Animations in Aseprite_Frame_149
+    originalName: 
+    pivot: {x: 0.6041666, y: -1.9285715}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 148
+      width: 24
+      height: 28
+    spriteID: 81e109ef0e86ad44eb1c546f53162b0b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 203, y: 94}
+  - name: All Animations in Aseprite_Frame_150
+    originalName: 
+    pivot: {x: 0.63043475, y: -1.862069}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 284
+      y: 148
+      width: 23
+      height: 29
+    spriteID: cd9e513b907971142a96960106a1d512
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 267, y: 94}
+  - name: All Animations in Aseprite_Frame_151
+    originalName: 
+    pivot: {x: 0.6458334, y: -1.6774192}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 188
+      y: 148
+      width: 24
+      height: 31
+    spriteID: d1d8c9646c6580d4e88c5c7a18a62dd2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 96}
+  - name: All Animations in Aseprite_Frame_152
+    originalName: 
+    pivot: {x: 0.58695656, y: -1.6896552}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 315
+      y: 148
+      width: 23
+      height: 29
+    spriteID: 820245ed2b4971740b1b4425c75d1b39
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 297, y: 99}
+  - name: All Animations in Aseprite_Frame_153
+    originalName: 
+    pivot: {x: 0.6041666, y: -1.5714285}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 252
+      y: 148
+      width: 24
+      height: 28
+    spriteID: d9e658ad4139cb34a97ad707ae4c1ae1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 235, y: 104}
+  - name: All Animations in Aseprite_Frame_154
+    originalName: 
+    pivot: {x: 0.6458334, y: -1.030303}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 156
+      y: 148
+      width: 24
+      height: 33
+    spriteID: f54c1aab6dba74841a94f8dd3762b9ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 140, y: 114}
+  - name: All Animations in Aseprite_Frame_155
+    originalName: 
+    pivot: {x: 0.575, y: -0.14634147}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 190
+      width: 20
+      height: 41
+    spriteID: 8b936d60737f7dd44a409f0c3f64210a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 184}
+  - name: All Animations in Aseprite_Frame_3
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 266
+      y: 350
+      width: 15
+      height: 18
+    spriteID: 02822201a009d7e4eb264c6d5f0de996
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 266, y: 350}
+  - name: All Animations in Aseprite_Frame_4
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 289
+      y: 350
+      width: 15
+      height: 18
+    spriteID: d9361bccde776a24a9f1370373b2fc1e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 289, y: 350}
+  - name: All Animations in Aseprite_Frame_5
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 312
+      y: 350
+      width: 15
+      height: 18
+    spriteID: c7427521f18fe274ab71dc1201fa102d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 312, y: 350}
+  - name: All Animations in Aseprite_Frame_14
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 335
+      y: 350
+      width: 15
+      height: 18
+    spriteID: c061f9ab19337494192f1abe5bd286bb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 335, y: 350}
+  - name: All Animations in Aseprite_Frame_15
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 358
+      y: 350
+      width: 15
+      height: 18
+    spriteID: 8e4bbbcd73d283240b0146382e8c4fa1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 358, y: 350}
+  - name: All Animations in Aseprite_Frame_59
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 381
+      y: 350
+      width: 15
+      height: 18
+    spriteID: 81cbfefd03c517342912512ac38a34a8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 381, y: 350}
+  - name: All Animations in Aseprite_Frame_78
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 350
+      width: 15
+      height: 18
+    spriteID: d1491847cc6b06c45837df4c52230e15
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 350}
+  - name: All Animations in Aseprite_Frame_110
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 350
+      width: 15
+      height: 18
+    spriteID: d5a343433f19cc24dad46dcf84d5ce21
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: 350}
+  - name: All Animations in Aseprite_Frame_130
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 450
+      y: 350
+      width: 15
+      height: 18
+    spriteID: 27987a3092697c548b6b9e396edc2756
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 450, y: 350}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1727156774
+    name: All Animations in Aseprite
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: All Animations in Aseprite_Frame_156
+      frameIndex: 156
+      cellRect:
+        x: 15
+        y: 0
+        width: 46
+        height: 40
+      spriteId: 2c355ff993cb5354cbd4960fa28d4f4d
+    - name: All Animations in Aseprite_Frame_157
+      frameIndex: 157
+      cellRect:
+        x: 6
+        y: 0
+        width: 59
+        height: 88
+      spriteId: 3b8abd62c07ceef4794dbb69f9c71d0a
+    - name: All Animations in Aseprite_Frame_158
+      frameIndex: 158
+      cellRect:
+        x: 6
+        y: 0
+        width: 59
+        height: 88
+      spriteId: 48430bca1a05146429845365b28da1bf
+    - name: All Animations in Aseprite_Frame_159
+      frameIndex: 159
+      cellRect:
+        x: 6
+        y: 0
+        width: 59
+        height: 88
+      spriteId: 4e98c17beb33a1c499708cac4644da4b
+    - name: All Animations in Aseprite_Frame_160
+      frameIndex: 160
+      cellRect:
+        x: 6
+        y: 0
+        width: 59
+        height: 88
+      spriteId: 2517d8d10f3c8ab4ca1f7fb064ddd7e6
+    - name: All Animations in Aseprite_Frame_161
+      frameIndex: 161
+      cellRect:
+        x: 6
+        y: 0
+        width: 59
+        height: 88
+      spriteId: cbf5a49a804b2244f81d94c49c49653a
+    - name: All Animations in Aseprite_Frame_162
+      frameIndex: 162
+      cellRect:
+        x: 6
+        y: 0
+        width: 59
+        height: 88
+      spriteId: 4747d0982cf7e4947a8245e0d5dea3e6
+    - name: All Animations in Aseprite_Frame_163
+      frameIndex: 163
+      cellRect:
+        x: 6
+        y: 0
+        width: 59
+        height: 88
+      spriteId: c9b54bb4b361ae74da9fb346a7025ca8
+    - name: All Animations in Aseprite_Frame_164
+      frameIndex: 164
+      cellRect:
+        x: 6
+        y: 0
+        width: 59
+        height: 88
+      spriteId: 41671026e7ac27740a5d2c22deb6680d
+    - name: All Animations in Aseprite_Frame_165
+      frameIndex: 165
+      cellRect:
+        x: 6
+        y: 0
+        width: 59
+        height: 88
+      spriteId: 6c929d13b1f84d74094f6609795cd77b
+    - name: All Animations in Aseprite_Frame_166
+      frameIndex: 166
+      cellRect:
+        x: 6
+        y: 0
+        width: 59
+        height: 88
+      spriteId: 3bd0d1a56ac5d8244af07cc58695bc82
+    - name: All Animations in Aseprite_Frame_167
+      frameIndex: 167
+      cellRect:
+        x: 26
+        y: 9
+        width: 23
+        height: 63
+      spriteId: 63ada48f6506a1c43a438d29787ddc25
+    - name: All Animations in Aseprite_Frame_168
+      frameIndex: 168
+      cellRect:
+        x: 26
+        y: 9
+        width: 23
+        height: 63
+      spriteId: 51e0f6662c99a0e47955dfc7e486be27
+    - name: All Animations in Aseprite_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 30
+        y: 12
+        width: 15
+        height: 18
+      spriteId: 444c8d542a17ced479fb0b53466b650d
+    - name: All Animations in Aseprite_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 30
+        y: 12
+        width: 15
+        height: 18
+      spriteId: 3faec566d783e014083cf7d2e5d5a0ed
+    - name: All Animations in Aseprite_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 30
+        y: 12
+        width: 15
+        height: 18
+      spriteId: e0ab645172e87374cb00c7b407f646ce
+    - name: All Animations in Aseprite_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 30
+        y: 12
+        width: 15
+        height: 18
+      spriteId: 86afc8691eaac774395eae3ffb89ef5c
+    - name: All Animations in Aseprite_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 30
+        y: 12
+        width: 15
+        height: 18
+      spriteId: 0bdf9f3b74d632b4696690373b6c46da
+    - name: All Animations in Aseprite_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 30
+        y: 12
+        width: 15
+        height: 18
+      spriteId: e6ca037a2154f96458cefc1c5b3c8658
+    - name: All Animations in Aseprite_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 30
+        y: 12
+        width: 15
+        height: 18
+      spriteId: 4bd9591b6be67c1458807c7f4f5d56d7
+    - name: All Animations in Aseprite_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 30
+        y: 12
+        width: 15
+        height: 18
+      spriteId: 8c7463f37eb19a14abcf030a55e98069
+    - name: All Animations in Aseprite_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 30
+        y: 12
+        width: 15
+        height: 18
+      spriteId: 80c6dc1bd83f9ad479dab03c5a4e98e9
+    - name: All Animations in Aseprite_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 30
+        y: 12
+        width: 15
+        height: 18
+      spriteId: 86d1ad4f69af6a14d95533259415085f
+    - name: All Animations in Aseprite_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 30
+        y: 12
+        width: 15
+        height: 18
+      spriteId: 13af46a9b2258eb49b6655e0193bcf95
+    - name: All Animations in Aseprite_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 30
+        y: 12
+        width: 15
+        height: 18
+      spriteId: df2474e682a22ef47aea450df8a53c60
+    - name: All Animations in Aseprite_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 30
+        y: 12
+        width: 15
+        height: 18
+      spriteId: 1428a3720294f6d448b655071f49d6ff
+    - name: All Animations in Aseprite_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 30
+        y: 12
+        width: 15
+        height: 18
+      spriteId: 2a6d1fc76e12b934f82f9b475b04bff3
+    - name: All Animations in Aseprite_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 30
+        y: 12
+        width: 15
+        height: 18
+      spriteId: a860441315ca1474b93c0510d2805e76
+    - name: All Animations in Aseprite_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 31
+        y: 12
+        width: 19
+        height: 21
+      spriteId: 1501f58660c7fa24c90fd63e6a560b8c
+    - name: All Animations in Aseprite_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 31
+        y: 12
+        width: 19
+        height: 21
+      spriteId: 9657c0e6ad807a64fbc43992145a9051
+    - name: All Animations in Aseprite_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 31
+        y: 12
+        width: 19
+        height: 21
+      spriteId: 3763f2439237f0e4fa411929ff2b19f4
+    - name: All Animations in Aseprite_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 31
+        y: 12
+        width: 19
+        height: 21
+      spriteId: 2b8dc1f465b015c4d8f33ff6f7f7b0d9
+    - name: All Animations in Aseprite_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 31
+        y: 12
+        width: 19
+        height: 21
+      spriteId: e7167ff1d804b5b44970fdf4856397bf
+    - name: All Animations in Aseprite_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 31
+        y: 12
+        width: 19
+        height: 21
+      spriteId: 25444266d05e70e47b4f5c4282116dc6
+    - name: All Animations in Aseprite_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 31
+        y: 12
+        width: 19
+        height: 21
+      spriteId: 5b7586d5ca867da4386c61ec2ef05e5e
+    - name: All Animations in Aseprite_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 31
+        y: 12
+        width: 19
+        height: 21
+      spriteId: ab8f482f1fdfb9149a0f45675da9cc98
+    - name: All Animations in Aseprite_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 31
+        y: 12
+        width: 19
+        height: 21
+      spriteId: 354c2d988c30a774a9d382bc988d8e4d
+    - name: All Animations in Aseprite_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 31
+        y: 12
+        width: 19
+        height: 21
+      spriteId: 23c69681114befb428ef82d458e9f0f1
+    - name: All Animations in Aseprite_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 30
+        y: 12
+        width: 10
+        height: 26
+      spriteId: 40e658d9f1bf71841a766700cf02a754
+    - name: All Animations in Aseprite_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 30
+        y: 12
+        width: 10
+        height: 26
+      spriteId: 46ce42575896ade4aaea37482a4fcf4b
+    - name: All Animations in Aseprite_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 30
+        y: 12
+        width: 10
+        height: 26
+      spriteId: ad3df4e34b8afd44ead32304ecca9b69
+    - name: All Animations in Aseprite_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 30
+        y: 12
+        width: 10
+        height: 26
+      spriteId: f1900e60d3b1e2240960918d81460cbe
+    - name: All Animations in Aseprite_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 26
+        y: 12
+        width: 22
+        height: 19
+      spriteId: d20c1fc061cb8364a93e3ff0daceb8ba
+    - name: All Animations in Aseprite_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 26
+        y: 12
+        width: 22
+        height: 19
+      spriteId: 4ed315d75fde70945a854bcc70fcc90c
+    - name: All Animations in Aseprite_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 26
+        y: 12
+        width: 22
+        height: 19
+      spriteId: cc66cf9c1c19c09439e9457fde175981
+    - name: All Animations in Aseprite_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 26
+        y: 12
+        width: 22
+        height: 19
+      spriteId: e71188c82e475ce40a5734fd3aac43e5
+    - name: All Animations in Aseprite_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 29
+        y: 12
+        width: 17
+        height: 25
+      spriteId: 9293759f4a3db5e42a9e99e8b0abb11f
+    - name: All Animations in Aseprite_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 29
+        y: 12
+        width: 17
+        height: 25
+      spriteId: 6ee301af031a180449e08aac92d1f367
+    - name: All Animations in Aseprite_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 29
+        y: 12
+        width: 17
+        height: 25
+      spriteId: 6eed72870dc130e45958ef812e2a7b07
+    - name: All Animations in Aseprite_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 29
+        y: 12
+        width: 17
+        height: 25
+      spriteId: ceedc5c2699238b4a8ec9d6b8eaf758c
+    - name: All Animations in Aseprite_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 29
+        y: 12
+        width: 17
+        height: 25
+      spriteId: 4e32ac80fe357524bb0487fb9b9334db
+    - name: All Animations in Aseprite_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 29
+        y: 12
+        width: 17
+        height: 25
+      spriteId: 04935f5416fd6f04192e1ac3e17f0c8e
+    - name: All Animations in Aseprite_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 29
+        y: 12
+        width: 17
+        height: 25
+      spriteId: 2387671512bb9544abe6d0ff7710cd4b
+    - name: All Animations in Aseprite_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 29
+        y: 12
+        width: 17
+        height: 25
+      spriteId: 790850b6e466adc47b1e1ff348c3f891
+    - name: All Animations in Aseprite_Frame_46
+      frameIndex: 46
+      cellRect:
+        x: 29
+        y: 12
+        width: 17
+        height: 25
+      spriteId: 759cd1dbab0c06b4393e5cd85fe54dff
+    - name: All Animations in Aseprite_Frame_47
+      frameIndex: 47
+      cellRect:
+        x: 29
+        y: 12
+        width: 17
+        height: 25
+      spriteId: 6beaef694fb0a9b45aeaffab17f42a24
+    - name: All Animations in Aseprite_Frame_48
+      frameIndex: 48
+      cellRect:
+        x: 29
+        y: 12
+        width: 17
+        height: 25
+      spriteId: 659caa0087cd08047a84251f6182c26d
+    - name: All Animations in Aseprite_Frame_49
+      frameIndex: 49
+      cellRect:
+        x: 29
+        y: 12
+        width: 17
+        height: 25
+      spriteId: c9c0ae9914a8cda4fa5669606993027a
+    - name: All Animations in Aseprite_Frame_50
+      frameIndex: 50
+      cellRect:
+        x: 29
+        y: 12
+        width: 17
+        height: 25
+      spriteId: b748693c69752d349a94a5ffbbc5ec93
+    - name: All Animations in Aseprite_Frame_51
+      frameIndex: 51
+      cellRect:
+        x: 32
+        y: 17
+        width: 13
+        height: 25
+      spriteId: decd2240c968af640ba91def4eed7d28
+    - name: All Animations in Aseprite_Frame_52
+      frameIndex: 52
+      cellRect:
+        x: 32
+        y: 17
+        width: 13
+        height: 25
+      spriteId: a7015b95fbd7ccb449a5a14f304af777
+    - name: All Animations in Aseprite_Frame_53
+      frameIndex: 53
+      cellRect:
+        x: 32
+        y: 17
+        width: 13
+        height: 25
+      spriteId: f6ae9e2bd0cad2f43b27b90b1dd16c4f
+    - name: All Animations in Aseprite_Frame_54
+      frameIndex: 54
+      cellRect:
+        x: 32
+        y: 17
+        width: 13
+        height: 25
+      spriteId: 8c379de93d935a34d876ddce3a449f79
+    - name: All Animations in Aseprite_Frame_55
+      frameIndex: 55
+      cellRect:
+        x: 31
+        y: 12
+        width: 16
+        height: 30
+      spriteId: 5b94505bb860f3f48983dd6d337c2cb7
+    - name: All Animations in Aseprite_Frame_56
+      frameIndex: 56
+      cellRect:
+        x: 31
+        y: 12
+        width: 16
+        height: 30
+      spriteId: 58b3725435d84d546bf6fcb2f1278138
+    - name: All Animations in Aseprite_Frame_57
+      frameIndex: 57
+      cellRect:
+        x: 31
+        y: 12
+        width: 16
+        height: 30
+      spriteId: 0a958ff64bc63244dbb759d7ea8e73e9
+    - name: All Animations in Aseprite_Frame_58
+      frameIndex: 58
+      cellRect:
+        x: 31
+        y: 12
+        width: 16
+        height: 30
+      spriteId: 73857693c2bc7e34bb1df2d7d07a8f6c
+    - name: All Animations in Aseprite_Frame_60
+      frameIndex: 60
+      cellRect:
+        x: 27
+        y: 12
+        width: 24
+        height: 19
+      spriteId: 08e9b378404cbc04f81f31d8bc342a37
+    - name: All Animations in Aseprite_Frame_61
+      frameIndex: 61
+      cellRect:
+        x: 27
+        y: 12
+        width: 24
+        height: 19
+      spriteId: 4cd306d91351f1441850d8b97e669f0d
+    - name: All Animations in Aseprite_Frame_62
+      frameIndex: 62
+      cellRect:
+        x: 27
+        y: 12
+        width: 24
+        height: 19
+      spriteId: 06ab678c516ec264b8b3e44494c27f9f
+    - name: All Animations in Aseprite_Frame_63
+      frameIndex: 63
+      cellRect:
+        x: 27
+        y: 12
+        width: 24
+        height: 19
+      spriteId: 69ff59d2e54d9f34f87af933e60eadbb
+    - name: All Animations in Aseprite_Frame_64
+      frameIndex: 64
+      cellRect:
+        x: 27
+        y: 12
+        width: 24
+        height: 19
+      spriteId: 44f40db5c3dae424087be89c6f4a0523
+    - name: All Animations in Aseprite_Frame_65
+      frameIndex: 65
+      cellRect:
+        x: 27
+        y: 12
+        width: 24
+        height: 19
+      spriteId: ae8be3233323edd45b0e8d33340f9868
+    - name: All Animations in Aseprite_Frame_66
+      frameIndex: 66
+      cellRect:
+        x: 27
+        y: 12
+        width: 24
+        height: 19
+      spriteId: 03293318b0987eb45a7c092c65aca74c
+    - name: All Animations in Aseprite_Frame_67
+      frameIndex: 67
+      cellRect:
+        x: 27
+        y: 12
+        width: 24
+        height: 19
+      spriteId: ca6ba9d3d67d40f49a1bd497215997be
+    - name: All Animations in Aseprite_Frame_68
+      frameIndex: 68
+      cellRect:
+        x: 27
+        y: 12
+        width: 24
+        height: 19
+      spriteId: c6017a9feaf51d8428182a25db22607b
+    - name: All Animations in Aseprite_Frame_69
+      frameIndex: 69
+      cellRect:
+        x: 27
+        y: 12
+        width: 24
+        height: 19
+      spriteId: 725740780fd4ca0479fb15c454172338
+    - name: All Animations in Aseprite_Frame_70
+      frameIndex: 70
+      cellRect:
+        x: 27
+        y: 12
+        width: 24
+        height: 19
+      spriteId: f3913670340d5a74a929ce19b502d82e
+    - name: All Animations in Aseprite_Frame_71
+      frameIndex: 71
+      cellRect:
+        x: 27
+        y: 12
+        width: 24
+        height: 19
+      spriteId: dc72366bdd4f0c043ad9265d7b86a132
+    - name: All Animations in Aseprite_Frame_72
+      frameIndex: 72
+      cellRect:
+        x: 27
+        y: 12
+        width: 24
+        height: 19
+      spriteId: 6043ba69c657eb445a6458c362ec070c
+    - name: All Animations in Aseprite_Frame_73
+      frameIndex: 73
+      cellRect:
+        x: 27
+        y: 12
+        width: 24
+        height: 19
+      spriteId: 1619dd437c8c6044aaab99a9659e4428
+    - name: All Animations in Aseprite_Frame_74
+      frameIndex: 74
+      cellRect:
+        x: 27
+        y: 12
+        width: 24
+        height: 19
+      spriteId: 168c949aabc87634fa8958e0dffd2d54
+    - name: All Animations in Aseprite_Frame_75
+      frameIndex: 75
+      cellRect:
+        x: 27
+        y: 12
+        width: 24
+        height: 19
+      spriteId: 712c0492d3897e64689706acd47def03
+    - name: All Animations in Aseprite_Frame_76
+      frameIndex: 76
+      cellRect:
+        x: 27
+        y: 12
+        width: 24
+        height: 19
+      spriteId: 1859cb6a30697284c88ac73934c2eb8b
+    - name: All Animations in Aseprite_Frame_77
+      frameIndex: 77
+      cellRect:
+        x: 27
+        y: 12
+        width: 24
+        height: 19
+      spriteId: aefd55ea7b4cf5940ab02bc7c30bf6dc
+    - name: All Animations in Aseprite_Frame_79
+      frameIndex: 79
+      cellRect:
+        x: 23
+        y: 12
+        width: 52
+        height: 27
+      spriteId: 5a661fdaae090a049bf9589e7b50a7aa
+    - name: All Animations in Aseprite_Frame_80
+      frameIndex: 80
+      cellRect:
+        x: 23
+        y: 12
+        width: 52
+        height: 27
+      spriteId: db3fac30c2d30d7438b15bfe60dde6ce
+    - name: All Animations in Aseprite_Frame_81
+      frameIndex: 81
+      cellRect:
+        x: 23
+        y: 12
+        width: 52
+        height: 27
+      spriteId: 2645cfa5b31e33c49a0c0289e352c930
+    - name: All Animations in Aseprite_Frame_82
+      frameIndex: 82
+      cellRect:
+        x: 23
+        y: 12
+        width: 52
+        height: 27
+      spriteId: 546420b10defa894787fbb771b975e6f
+    - name: All Animations in Aseprite_Frame_83
+      frameIndex: 83
+      cellRect:
+        x: 23
+        y: 12
+        width: 52
+        height: 27
+      spriteId: 2394bbada098de9418da39528cb0466f
+    - name: All Animations in Aseprite_Frame_84
+      frameIndex: 84
+      cellRect:
+        x: 23
+        y: 12
+        width: 52
+        height: 27
+      spriteId: 3886832c22be6cf439c4bd52c745a0e5
+    - name: All Animations in Aseprite_Frame_85
+      frameIndex: 85
+      cellRect:
+        x: 23
+        y: 12
+        width: 52
+        height: 27
+      spriteId: 9053d2ae4a6397e46a290cb1a1e37563
+    - name: All Animations in Aseprite_Frame_86
+      frameIndex: 86
+      cellRect:
+        x: 23
+        y: 12
+        width: 52
+        height: 27
+      spriteId: 7ad5dbb516de96f49b41f70b65abb864
+    - name: All Animations in Aseprite_Frame_87
+      frameIndex: 87
+      cellRect:
+        x: 23
+        y: 12
+        width: 52
+        height: 27
+      spriteId: 43a9501ac0490fc4b8c0c1ff3d0d8de0
+    - name: All Animations in Aseprite_Frame_88
+      frameIndex: 88
+      cellRect:
+        x: 23
+        y: 12
+        width: 52
+        height: 27
+      spriteId: e441244b2fab73345a56f235a589cc16
+    - name: All Animations in Aseprite_Frame_89
+      frameIndex: 89
+      cellRect:
+        x: 23
+        y: 12
+        width: 52
+        height: 27
+      spriteId: 1112b838b050d7b439e86c04f8a7321b
+    - name: All Animations in Aseprite_Frame_90
+      frameIndex: 90
+      cellRect:
+        x: 23
+        y: 12
+        width: 52
+        height: 27
+      spriteId: 6f487d03745a41e4882398566449c7bc
+    - name: All Animations in Aseprite_Frame_91
+      frameIndex: 91
+      cellRect:
+        x: 23
+        y: 12
+        width: 52
+        height: 27
+      spriteId: 6bbf2e0e8d827cc41a812098bbfa2f5b
+    - name: All Animations in Aseprite_Frame_92
+      frameIndex: 92
+      cellRect:
+        x: 23
+        y: 12
+        width: 52
+        height: 27
+      spriteId: 280b4abb9f18da2469332321eca71283
+    - name: All Animations in Aseprite_Frame_93
+      frameIndex: 93
+      cellRect:
+        x: 23
+        y: 12
+        width: 52
+        height: 27
+      spriteId: 42bef0c6fb699cc4c91c8bbcca10cc79
+    - name: All Animations in Aseprite_Frame_94
+      frameIndex: 94
+      cellRect:
+        x: 23
+        y: 12
+        width: 52
+        height: 27
+      spriteId: be5ee8281b6d25c458a3a29c50e1f698
+    - name: All Animations in Aseprite_Frame_95
+      frameIndex: 95
+      cellRect:
+        x: 23
+        y: 12
+        width: 52
+        height: 27
+      spriteId: 3bff82fc4f7d4a64ea5e7f639924e424
+    - name: All Animations in Aseprite_Frame_96
+      frameIndex: 96
+      cellRect:
+        x: 23
+        y: 12
+        width: 52
+        height: 27
+      spriteId: b0e2fe0f76e6e674f94c955c246e1894
+    - name: All Animations in Aseprite_Frame_97
+      frameIndex: 97
+      cellRect:
+        x: 23
+        y: 12
+        width: 52
+        height: 27
+      spriteId: c9d3c520f9caa284a92eca81922fe10d
+    - name: All Animations in Aseprite_Frame_98
+      frameIndex: 98
+      cellRect:
+        x: 23
+        y: 12
+        width: 52
+        height: 27
+      spriteId: e4fd25a413d9b0f4fbe25d49e7c2b8d9
+    - name: All Animations in Aseprite_Frame_99
+      frameIndex: 99
+      cellRect:
+        x: 23
+        y: 12
+        width: 52
+        height: 27
+      spriteId: 652f5c6a0c7e3cd41a318bc13a9fe8f1
+    - name: All Animations in Aseprite_Frame_100
+      frameIndex: 100
+      cellRect:
+        x: 23
+        y: 12
+        width: 52
+        height: 27
+      spriteId: 881596813e5d4184285354939c26172d
+    - name: All Animations in Aseprite_Frame_101
+      frameIndex: 101
+      cellRect:
+        x: 23
+        y: 12
+        width: 52
+        height: 27
+      spriteId: 868da610eda1a2f419453a2a9ab445b0
+    - name: All Animations in Aseprite_Frame_102
+      frameIndex: 102
+      cellRect:
+        x: 23
+        y: 12
+        width: 52
+        height: 27
+      spriteId: 321ea2dfa33b27a44a6ad90799e72f94
+    - name: All Animations in Aseprite_Frame_103
+      frameIndex: 103
+      cellRect:
+        x: 23
+        y: 12
+        width: 52
+        height: 27
+      spriteId: ce660cf8ced08ed468a80094946034a3
+    - name: All Animations in Aseprite_Frame_104
+      frameIndex: 104
+      cellRect:
+        x: 23
+        y: 12
+        width: 52
+        height: 27
+      spriteId: b307575ebcb34864b97cf9dc541b3e74
+    - name: All Animations in Aseprite_Frame_105
+      frameIndex: 105
+      cellRect:
+        x: 23
+        y: 12
+        width: 52
+        height: 27
+      spriteId: ba9423d64b61b4c4ca167a6fe671ac53
+    - name: All Animations in Aseprite_Frame_106
+      frameIndex: 106
+      cellRect:
+        x: 23
+        y: 12
+        width: 52
+        height: 27
+      spriteId: fa35c284f6c5ed24ab2e8f9489bae392
+    - name: All Animations in Aseprite_Frame_107
+      frameIndex: 107
+      cellRect:
+        x: 23
+        y: 12
+        width: 52
+        height: 27
+      spriteId: c12697c725dad464581306d9aa8fffc4
+    - name: All Animations in Aseprite_Frame_108
+      frameIndex: 108
+      cellRect:
+        x: 23
+        y: 12
+        width: 52
+        height: 27
+      spriteId: 2d04ff9595d15d249aedc987b1d1b956
+    - name: All Animations in Aseprite_Frame_109
+      frameIndex: 109
+      cellRect:
+        x: 23
+        y: 12
+        width: 52
+        height: 27
+      spriteId: 465ff52e1030fc142aead13f9de8b840
+    - name: All Animations in Aseprite_Frame_111
+      frameIndex: 111
+      cellRect:
+        x: 30
+        y: 12
+        width: 17
+        height: 18
+      spriteId: 4e9ca0b0fa767c94a9a3714bdadc94dd
+    - name: All Animations in Aseprite_Frame_112
+      frameIndex: 112
+      cellRect:
+        x: 30
+        y: 12
+        width: 17
+        height: 18
+      spriteId: 8fe6d9360902e6c46995f7ab265d88d9
+    - name: All Animations in Aseprite_Frame_113
+      frameIndex: 113
+      cellRect:
+        x: 30
+        y: 12
+        width: 17
+        height: 18
+      spriteId: 54d3ab668791d0142ad12cce165a3c2d
+    - name: All Animations in Aseprite_Frame_114
+      frameIndex: 114
+      cellRect:
+        x: 30
+        y: 12
+        width: 17
+        height: 18
+      spriteId: 948be16e508f18e43ba1232aeab3e319
+    - name: All Animations in Aseprite_Frame_115
+      frameIndex: 115
+      cellRect:
+        x: 30
+        y: 12
+        width: 17
+        height: 18
+      spriteId: 8c2f8c1383350b640860b594606de6ab
+    - name: All Animations in Aseprite_Frame_116
+      frameIndex: 116
+      cellRect:
+        x: 30
+        y: 12
+        width: 17
+        height: 18
+      spriteId: 194ec87db29bade42b0c01b5ac71d257
+    - name: All Animations in Aseprite_Frame_117
+      frameIndex: 117
+      cellRect:
+        x: 30
+        y: 12
+        width: 17
+        height: 18
+      spriteId: 72172beb9555a794786fc36ace1614b4
+    - name: All Animations in Aseprite_Frame_118
+      frameIndex: 118
+      cellRect:
+        x: 30
+        y: 12
+        width: 17
+        height: 18
+      spriteId: 6a85b2b52de81304bb6a0fd83aca53c8
+    - name: All Animations in Aseprite_Frame_119
+      frameIndex: 119
+      cellRect:
+        x: 30
+        y: 12
+        width: 17
+        height: 18
+      spriteId: d09300be914b8654392abe26bba31b7d
+    - name: All Animations in Aseprite_Frame_120
+      frameIndex: 120
+      cellRect:
+        x: 30
+        y: 12
+        width: 17
+        height: 18
+      spriteId: d3e0d7b1fa79ccd46b6668579012c1fa
+    - name: All Animations in Aseprite_Frame_121
+      frameIndex: 121
+      cellRect:
+        x: 30
+        y: 12
+        width: 17
+        height: 18
+      spriteId: 49bad6dfdac18324e8d5ec4138ad0ed1
+    - name: All Animations in Aseprite_Frame_122
+      frameIndex: 122
+      cellRect:
+        x: 30
+        y: 12
+        width: 17
+        height: 18
+      spriteId: 608ac25be3e7f8845a41017a59dcf363
+    - name: All Animations in Aseprite_Frame_123
+      frameIndex: 123
+      cellRect:
+        x: 30
+        y: 12
+        width: 17
+        height: 18
+      spriteId: 6dff2808529e4324eb4afc3615aa6546
+    - name: All Animations in Aseprite_Frame_124
+      frameIndex: 124
+      cellRect:
+        x: 30
+        y: 12
+        width: 17
+        height: 18
+      spriteId: 2b53416796e7b7c40939db81c52ff076
+    - name: All Animations in Aseprite_Frame_125
+      frameIndex: 125
+      cellRect:
+        x: 30
+        y: 12
+        width: 17
+        height: 18
+      spriteId: 670ebd72cabe2544e82ef0feae2ca397
+    - name: All Animations in Aseprite_Frame_126
+      frameIndex: 126
+      cellRect:
+        x: 30
+        y: 12
+        width: 17
+        height: 18
+      spriteId: 8bc79e0270721d64081c569996c12b93
+    - name: All Animations in Aseprite_Frame_127
+      frameIndex: 127
+      cellRect:
+        x: 30
+        y: 12
+        width: 17
+        height: 18
+      spriteId: a555e9b3b55a91144ba5be51c1159915
+    - name: All Animations in Aseprite_Frame_128
+      frameIndex: 128
+      cellRect:
+        x: 30
+        y: 12
+        width: 17
+        height: 18
+      spriteId: 0707fab994a1328429466da57c56fcad
+    - name: All Animations in Aseprite_Frame_129
+      frameIndex: 129
+      cellRect:
+        x: 30
+        y: 12
+        width: 17
+        height: 18
+      spriteId: c01498e46cc2c294c8e9b995ff2fa0cf
+    - name: All Animations in Aseprite_Frame_131
+      frameIndex: 131
+      cellRect:
+        x: 26
+        y: 9
+        width: 23
+        height: 63
+      spriteId: c63a4fd6e7c9db44689b8bc21bc8f5ba
+    - name: All Animations in Aseprite_Frame_132
+      frameIndex: 132
+      cellRect:
+        x: 6
+        y: 0
+        width: 59
+        height: 88
+      spriteId: 5c9a87d7803139e4f9209ca8e6d5fd7a
+    - name: All Animations in Aseprite_Frame_133
+      frameIndex: 133
+      cellRect:
+        x: 6
+        y: 0
+        width: 59
+        height: 88
+      spriteId: ec4e1a04d75dac94c99308253353e99b
+    - name: All Animations in Aseprite_Frame_134
+      frameIndex: 134
+      cellRect:
+        x: 6
+        y: 0
+        width: 59
+        height: 88
+      spriteId: d7b18764f877e814b851ed903b32167c
+    - name: All Animations in Aseprite_Frame_135
+      frameIndex: 135
+      cellRect:
+        x: 6
+        y: 0
+        width: 59
+        height: 88
+      spriteId: 3bf27a9b14f8bb842b0dfe2f2db63eeb
+    - name: All Animations in Aseprite_Frame_136
+      frameIndex: 136
+      cellRect:
+        x: 6
+        y: 0
+        width: 59
+        height: 88
+      spriteId: 7cb034e1d043b384986da85abd3a8dc1
+    - name: All Animations in Aseprite_Frame_137
+      frameIndex: 137
+      cellRect:
+        x: 6
+        y: 0
+        width: 59
+        height: 88
+      spriteId: 82ba321875bf84a40aeae74be8235406
+    - name: All Animations in Aseprite_Frame_138
+      frameIndex: 138
+      cellRect:
+        x: 6
+        y: 0
+        width: 59
+        height: 88
+      spriteId: a18f29732db5ce341b1492d52c1c719b
+    - name: All Animations in Aseprite_Frame_139
+      frameIndex: 139
+      cellRect:
+        x: 6
+        y: 0
+        width: 59
+        height: 88
+      spriteId: 9f3df42132f158d4ba522ab8259ae900
+    - name: All Animations in Aseprite_Frame_140
+      frameIndex: 140
+      cellRect:
+        x: 6
+        y: 0
+        width: 59
+        height: 88
+      spriteId: 2225c7e217eccb24587fab2fc2f973dd
+    - name: All Animations in Aseprite_Frame_141
+      frameIndex: 141
+      cellRect:
+        x: 6
+        y: 0
+        width: 59
+        height: 88
+      spriteId: 382311a2e39751d4191904147db6ebee
+    - name: All Animations in Aseprite_Frame_142
+      frameIndex: 142
+      cellRect:
+        x: 6
+        y: 0
+        width: 59
+        height: 88
+      spriteId: 5ecad20c7db3a7e4d997ef4dbe01186b
+    - name: All Animations in Aseprite_Frame_143
+      frameIndex: 143
+      cellRect:
+        x: 6
+        y: 0
+        width: 59
+        height: 88
+      spriteId: 2be8079c0b71d6d43a928b16dc492201
+    - name: All Animations in Aseprite_Frame_144
+      frameIndex: 144
+      cellRect:
+        x: 6
+        y: 0
+        width: 59
+        height: 88
+      spriteId: 8ace6c7cef4aec24c878f3a9c977f463
+    - name: All Animations in Aseprite_Frame_145
+      frameIndex: 145
+      cellRect:
+        x: 6
+        y: 0
+        width: 59
+        height: 88
+      spriteId: 2ea096f3e778ed744936f9cc50f7e88b
+    - name: All Animations in Aseprite_Frame_146
+      frameIndex: 146
+      cellRect:
+        x: 6
+        y: 0
+        width: 59
+        height: 88
+      spriteId: 6635e15c1e4c0e74d8bc026cbbbc8d84
+    - name: All Animations in Aseprite_Frame_147
+      frameIndex: 147
+      cellRect:
+        x: 6
+        y: 0
+        width: 59
+        height: 88
+      spriteId: 90e39a0784e070f4782858b4fee1589d
+    - name: All Animations in Aseprite_Frame_148
+      frameIndex: 148
+      cellRect:
+        x: 6
+        y: 0
+        width: 59
+        height: 88
+      spriteId: e041d37e1766be64d9ecae442fa465b1
+    - name: All Animations in Aseprite_Frame_149
+      frameIndex: 149
+      cellRect:
+        x: 6
+        y: 0
+        width: 59
+        height: 88
+      spriteId: 81e109ef0e86ad44eb1c546f53162b0b
+    - name: All Animations in Aseprite_Frame_150
+      frameIndex: 150
+      cellRect:
+        x: 6
+        y: 0
+        width: 59
+        height: 88
+      spriteId: cd9e513b907971142a96960106a1d512
+    - name: All Animations in Aseprite_Frame_151
+      frameIndex: 151
+      cellRect:
+        x: 6
+        y: 0
+        width: 59
+        height: 88
+      spriteId: d1d8c9646c6580d4e88c5c7a18a62dd2
+    - name: All Animations in Aseprite_Frame_152
+      frameIndex: 152
+      cellRect:
+        x: 6
+        y: 0
+        width: 59
+        height: 88
+      spriteId: 820245ed2b4971740b1b4425c75d1b39
+    - name: All Animations in Aseprite_Frame_153
+      frameIndex: 153
+      cellRect:
+        x: 6
+        y: 0
+        width: 59
+        height: 88
+      spriteId: d9e658ad4139cb34a97ad707ae4c1ae1
+    - name: All Animations in Aseprite_Frame_154
+      frameIndex: 154
+      cellRect:
+        x: 6
+        y: 0
+        width: 59
+        height: 88
+      spriteId: f54c1aab6dba74841a94f8dd3762b9ca
+    - name: All Animations in Aseprite_Frame_155
+      frameIndex: 155
+      cellRect:
+        x: 6
+        y: 0
+        width: 59
+        height: 88
+      spriteId: 8b936d60737f7dd44a409f0c3f64210a
+    - name: All Animations in Aseprite_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 30
+        y: 12
+        width: 15
+        height: 18
+      spriteId: 02822201a009d7e4eb264c6d5f0de996
+    - name: All Animations in Aseprite_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 30
+        y: 12
+        width: 15
+        height: 18
+      spriteId: d9361bccde776a24a9f1370373b2fc1e
+    - name: All Animations in Aseprite_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 30
+        y: 12
+        width: 15
+        height: 18
+      spriteId: c7427521f18fe274ab71dc1201fa102d
+    - name: All Animations in Aseprite_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 30
+        y: 12
+        width: 15
+        height: 18
+      spriteId: c061f9ab19337494192f1abe5bd286bb
+    - name: All Animations in Aseprite_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 30
+        y: 12
+        width: 15
+        height: 18
+      spriteId: 8e4bbbcd73d283240b0146382e8c4fa1
+    - name: All Animations in Aseprite_Frame_59
+      frameIndex: 59
+      cellRect:
+        x: 30
+        y: 12
+        width: 15
+        height: 18
+      spriteId: 81cbfefd03c517342912512ac38a34a8
+    - name: All Animations in Aseprite_Frame_78
+      frameIndex: 78
+      cellRect:
+        x: 30
+        y: 12
+        width: 15
+        height: 18
+      spriteId: d1491847cc6b06c45837df4c52230e15
+    - name: All Animations in Aseprite_Frame_110
+      frameIndex: 110
+      cellRect:
+        x: 30
+        y: 12
+        width: 15
+        height: 18
+      spriteId: d5a343433f19cc24dad46dcf84d5ce21
+    - name: All Animations in Aseprite_Frame_130
+      frameIndex: 130
+      cellRect:
+        x: 30
+        y: 12
+        width: 15
+        height: 18
+      spriteId: 27987a3092697c548b6b9e396edc2756
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 75, y: 88}

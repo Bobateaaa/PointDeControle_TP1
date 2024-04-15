@@ -1,0 +1,4279 @@
+fileFormatVersion: 2
+guid: 7f9e1afbf248ac8469e3bd10768c786b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2889286915424829129
+    second: Light with FX_0
+  - first:
+      213: 2464604159980190326
+    second: Light with FX_1
+  - first:
+      213: -9050735381038121488
+    second: Light with FX_2
+  - first:
+      213: -6203527256121890326
+    second: Light with FX_3
+  - first:
+      213: 4109014574412578559
+    second: Light with FX_4
+  - first:
+      213: -7204678190819803581
+    second: Light with FX_5
+  - first:
+      213: -1699601488674115630
+    second: Light with FX_6
+  - first:
+      213: -465749894601663354
+    second: Light with FX_7
+  - first:
+      213: 3223701874942769148
+    second: Light with FX_8
+  - first:
+      213: 8967564951630245571
+    second: Light with FX_9
+  - first:
+      213: 4453759790454630548
+    second: Light with FX_10
+  - first:
+      213: -5626644366192241401
+    second: Light with FX_11
+  - first:
+      213: -4267088196616809603
+    second: Light with FX_12
+  - first:
+      213: 3842084536458581494
+    second: Light with FX_13
+  - first:
+      213: -7994907867514033887
+    second: Light with FX_14
+  - first:
+      213: -2038366140165134118
+    second: Light with FX_15
+  - first:
+      213: 11121857899484238
+    second: Light with FX_16
+  - first:
+      213: 6850952767103967615
+    second: Light with FX_17
+  - first:
+      213: 5014935458982746343
+    second: Light with FX_18
+  - first:
+      213: -2562320343359615979
+    second: Light with FX_19
+  - first:
+      213: 8876500747857939341
+    second: Light with FX_20
+  - first:
+      213: -1006217538203136303
+    second: Light with FX_21
+  - first:
+      213: 5098357425226388292
+    second: Light with FX_22
+  - first:
+      213: -7527094911560218616
+    second: Light with FX_23
+  - first:
+      213: -7836529771828590126
+    second: Light with FX_24
+  - first:
+      213: -2069209241998099564
+    second: Light with FX_25
+  - first:
+      213: -7364804830062941260
+    second: Light with FX_26
+  - first:
+      213: -2425039035948347431
+    second: Light with FX_27
+  - first:
+      213: -7213591049765213252
+    second: Light with FX_28
+  - first:
+      213: 5277146583350532985
+    second: Light with FX_29
+  - first:
+      213: -4371949364576368238
+    second: Light with FX_30
+  - first:
+      213: 3761186915864739428
+    second: Light with FX_31
+  - first:
+      213: 6149035708530987398
+    second: Light with FX_32
+  - first:
+      213: -3433957535669383132
+    second: Light with FX_33
+  - first:
+      213: 6894292224922328502
+    second: Light with FX_34
+  - first:
+      213: -3822071875803402532
+    second: Light with FX_35
+  - first:
+      213: -8194007491752485901
+    second: Light with FX_36
+  - first:
+      213: 451234126413997101
+    second: Light with FX_37
+  - first:
+      213: 7623224333057599945
+    second: Light with FX_38
+  - first:
+      213: 8828023964237388268
+    second: Light with FX_39
+  - first:
+      213: 324428463590790269
+    second: Light with FX_40
+  - first:
+      213: -4637925468202389499
+    second: Light with FX_41
+  - first:
+      213: 4539523134258103431
+    second: Light with FX_42
+  - first:
+      213: 8974753147435839338
+    second: Light with FX_43
+  - first:
+      213: -5007629789609380508
+    second: Light with FX_44
+  - first:
+      213: 3803431408829752124
+    second: Light with FX_45
+  - first:
+      213: -7838393647785397859
+    second: Light with FX_46
+  - first:
+      213: 654163737828125798
+    second: Light with FX_47
+  - first:
+      213: 5997950000367656768
+    second: Light with FX_48
+  - first:
+      213: -1481324217067390482
+    second: Light with FX_49
+  - first:
+      213: -7587067357866226994
+    second: Light with FX_50
+  - first:
+      213: 2018915207397629910
+    second: Light with FX_51
+  - first:
+      213: 7011351454123708392
+    second: Light with FX_52
+  - first:
+      213: -5908003470263635041
+    second: Light with FX_53
+  - first:
+      213: 6703565491386489473
+    second: Light with FX_54
+  - first:
+      213: -6496591221661207900
+    second: Light with FX_55
+  - first:
+      213: -5607558563447352264
+    second: Light with FX_56
+  - first:
+      213: 3536402598948891317
+    second: Light with FX_57
+  - first:
+      213: -4104560135923423578
+    second: Light with FX_58
+  - first:
+      213: 7159347262544347078
+    second: Light with FX_59
+  - first:
+      213: 5060473106526508777
+    second: Light with FX_60
+  - first:
+      213: 5542009038891788562
+    second: Light with FX_61
+  - first:
+      213: -3929026345008268163
+    second: Light with FX_62
+  - first:
+      213: -3643251298391268833
+    second: Light with FX_63
+  - first:
+      213: 801700405991855876
+    second: Light with FX_64
+  - first:
+      213: -7489822723224782109
+    second: Light with FX_65
+  - first:
+      213: 2123048629645024500
+    second: Light with FX_66
+  - first:
+      213: -5015185397571253266
+    second: Light with FX_67
+  - first:
+      213: 4789198497368148071
+    second: Light with FX_68
+  - first:
+      213: -6241904555690917358
+    second: Light with FX_69
+  - first:
+      213: 8488196155801229483
+    second: Light with FX_70
+  - first:
+      213: -4574575305657215182
+    second: Light with FX_71
+  - first:
+      213: -2671406732043507168
+    second: Light with FX_72
+  - first:
+      213: -4027405177394847681
+    second: Light with FX_73
+  - first:
+      213: 3346047684832226040
+    second: Light with FX_74
+  - first:
+      213: 7733453709180899825
+    second: Light with FX_75
+  - first:
+      213: 8755514167724564350
+    second: Light with FX_76
+  - first:
+      213: 1656549075656595219
+    second: Light with FX_77
+  - first:
+      213: 6328090931026716314
+    second: Light with FX_78
+  - first:
+      213: 3309379727842881090
+    second: Light with FX_79
+  - first:
+      213: 2409770599058170773
+    second: Light with FX_80
+  - first:
+      213: 4282654276389283003
+    second: Light with FX_81
+  - first:
+      213: 6835578994545354379
+    second: Light with FX_82
+  - first:
+      213: 8890600932487250318
+    second: Light with FX_83
+  - first:
+      213: 7487534836211502349
+    second: Light with FX_84
+  - first:
+      213: -6325930239335674665
+    second: Light with FX_85
+  - first:
+      213: 7615137113052591319
+    second: Light with FX_86
+  - first:
+      213: -3548469262386997561
+    second: Light with FX_87
+  - first:
+      213: -568309600741451091
+    second: Light with FX_88
+  - first:
+      213: -5127465400953861876
+    second: Light with FX_89
+  - first:
+      213: -724170786201597900
+    second: Light with FX_90
+  - first:
+      213: -8305577586706780644
+    second: Light with FX_91
+  - first:
+      213: 2284753359087130331
+    second: Light with FX_92
+  - first:
+      213: 6058086627867506882
+    second: Light with FX_93
+  - first:
+      213: -1473825061745038932
+    second: Light with FX_94
+  - first:
+      213: 5868987409819748313
+    second: Light with FX_95
+  - first:
+      213: -4749728442132331615
+    second: Light with FX_96
+  - first:
+      213: -5816641376301083632
+    second: Light with FX_97
+  - first:
+      213: 4031957959159911445
+    second: Light with FX_98
+  - first:
+      213: -3910826910668448220
+    second: Light with FX_99
+  - first:
+      213: 4351133408337308143
+    second: Light with FX_100
+  - first:
+      213: 8498491101641600982
+    second: Light with FX_101
+  - first:
+      213: 5641586957936205014
+    second: Light with FX_102
+  - first:
+      213: -5420833602638757715
+    second: Light with FX_103
+  - first:
+      213: -4954089927673417867
+    second: Light with FX_104
+  - first:
+      213: -8429327633095993402
+    second: Light with FX_105
+  - first:
+      213: 1868418469161037652
+    second: Light with FX_106
+  - first:
+      213: -3656031136345141524
+    second: Light with FX_107
+  - first:
+      213: 7368675918803834815
+    second: Light with FX_108
+  - first:
+      213: 736559411386317770
+    second: Light with FX_109
+  - first:
+      213: -6742329676188298463
+    second: Light with FX_110
+  - first:
+      213: 7398580281862941726
+    second: Light with FX_111
+  - first:
+      213: -7437426344576655024
+    second: Light with FX_112
+  - first:
+      213: -100577650794665769
+    second: Light with FX_113
+  - first:
+      213: 8176137061597616116
+    second: Light with FX_114
+  - first:
+      213: 7186477643913267522
+    second: Light with FX_115
+  - first:
+      213: 6571018011245300549
+    second: Light with FX_116
+  - first:
+      213: -5364052682448252117
+    second: Light with FX_117
+  - first:
+      213: -5082742216418561326
+    second: Light with FX_118
+  - first:
+      213: 4842996998840276712
+    second: Light with FX_119
+  - first:
+      213: 5785909271754495282
+    second: Light with FX_120
+  - first:
+      213: -3200246130429197176
+    second: Light with FX_121
+  - first:
+      213: 3264141660779689771
+    second: Light with FX_122
+  - first:
+      213: -7927438581122409874
+    second: Light with FX_123
+  - first:
+      213: -3474266359970900406
+    second: Light with FX_124
+  - first:
+      213: 8598803940036929977
+    second: Light with FX_125
+  - first:
+      213: -372322421507097893
+    second: Light with FX_126
+  - first:
+      213: -631305826764220568
+    second: Light with FX_127
+  - first:
+      213: 5434611159218577595
+    second: Light with FX_128
+  - first:
+      213: 4657761890900306675
+    second: Light with FX_129
+  - first:
+      213: 4580037619743790648
+    second: Light with FX_130
+  - first:
+      213: 4083033719528165886
+    second: Light with FX_131
+  - first:
+      213: -1020044410061347835
+    second: Light with FX_132
+  - first:
+      213: -689023016492124977
+    second: Light with FX_133
+  - first:
+      213: -8781404490092831589
+    second: Light with FX_134
+  - first:
+      213: -5427242987282328673
+    second: Light with FX_135
+  - first:
+      213: -1438195033385246020
+    second: Light with FX_136
+  - first:
+      213: -691895926130521534
+    second: Light with FX_137
+  - first:
+      213: -6593767051175789656
+    second: Light with FX_138
+  - first:
+      213: -7798532833261348955
+    second: Light with FX_139
+  - first:
+      213: -7921813697892396849
+    second: Light with FX_140
+  - first:
+      213: -4235828378225868733
+    second: Light with FX_141
+  - first:
+      213: 395930707585572011
+    second: Light with FX_142
+  - first:
+      213: 8857540624105652519
+    second: Light with FX_143
+  - first:
+      213: -117917979916659356
+    second: Light with FX_144
+  - first:
+      213: -844600401661222034
+    second: Light with FX_145
+  - first:
+      213: 5793318812068288295
+    second: Light with FX_146
+  - first:
+      213: 2583758644985045823
+    second: Light with FX_147
+  - first:
+      213: -1806089454372109721
+    second: Light with FX_148
+  - first:
+      213: 509268676945775391
+    second: Light with FX_149
+  - first:
+      213: 3416065835669636403
+    second: Light with FX_150
+  - first:
+      213: -6905512235540592209
+    second: Light with FX_151
+  - first:
+      213: 4602408088259821725
+    second: Light with FX_152
+  - first:
+      213: -5864551445880743928
+    second: Light with FX_153
+  - first:
+      213: -4555421685267120847
+    second: Light with FX_154
+  - first:
+      213: -9180127514360305936
+    second: Light with FX_155
+  - first:
+      213: 7139578727753886579
+    second: Light with FX_156
+  - first:
+      213: 2859600881300303900
+    second: Light with FX_157
+  - first:
+      213: 838594155538348899
+    second: Light with FX_158
+  - first:
+      213: 4187549429588619585
+    second: Light with FX_159
+  - first:
+      213: -2842350794986830585
+    second: Light with FX_160
+  - first:
+      213: 525721016599710998
+    second: Light with FX_161
+  - first:
+      213: -7404605015482817541
+    second: Light with FX_162
+  - first:
+      213: -4426364427759011319
+    second: Light with FX_163
+  - first:
+      213: 3326508306270618651
+    second: Light with FX_164
+  - first:
+      213: 1681527858694593123
+    second: Light with FX_165
+  - first:
+      213: -9126439312097170876
+    second: Light with FX_166
+  - first:
+      213: 3350880820470736169
+    second: Light with FX_167
+  - first:
+      213: -3078748245954822467
+    second: Light with FX_168
+  - first:
+      213: 5914655396666494454
+    second: Light with FX_169
+  - first:
+      213: 4501886713156905092
+    second: Light with FX_170
+  - first:
+      213: 7798249891545150726
+    second: Light with FX_171
+  - first:
+      213: -995611681295027079
+    second: Light with FX_172
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Light with FX_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1507
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7314be7cbd037e7d0800000000000000
+      internalID: -2889286915424829129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1507
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ab19bec68043220800000000000000
+      internalID: 2464604159980190326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1507
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdb921bf14556280800000000000000
+      internalID: -9050735381038121488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_3
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1419
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9a66804d4a8e9a0800000000000000
+      internalID: -6203527256121890326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1419
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffeb3c42cf6260930800000000000000
+      internalID: 4109014574412578559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_5
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1419
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e7e238b57d30c90800000000000000
+      internalID: -7204678190819803581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_6
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1419
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfaadf637dc968e0800000000000000
+      internalID: -1699601488674115630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_7
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1419
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c971240f25989f0800000000000000
+      internalID: -465749894601663354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_8
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1419
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf779bd76c3ecbc20800000000000000
+      internalID: 3223701874942769148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_9
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1331
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cee922bfc0337c70800000000000000
+      internalID: 8967564951630245571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_10
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1331
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49867f0beeeeecd30800000000000000
+      internalID: 4453759790454630548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_11
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1243
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70598ab92c42ae1b0800000000000000
+      internalID: -5626644366192241401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1243
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d739467a4e148c4c0800000000000000
+      internalID: -4267088196616809603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_13
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1243
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f592a89783d15530800000000000000
+      internalID: 3842084536458581494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_14
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1243
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129a9d047a16c0190800000000000000
+      internalID: -7994907867514033887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_15
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1155
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8e5459bc446b3e0800000000000000
+      internalID: -2038366140165134118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1155
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4457555543872000800000000000000
+      internalID: 11121857899484238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_17
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1156
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7126386e39731f50800000000000000
+      internalID: 6850952767103967615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_18
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1156
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e85d2cca31a89540800000000000000
+      internalID: 5014935458982746343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_19
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1155
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c0b45393fc07cd0800000000000000
+      internalID: -2562320343359615979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_20
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1155
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bcf84866aaf2b70800000000000000
+      internalID: 8876500747857939341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_21
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1155
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de42acea723902f0800000000000000
+      internalID: -1006217538203136303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_22
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1156
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4431894e01101c640800000000000000
+      internalID: 5098357425226388292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_23
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1156
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8088dc5ee036a8790800000000000000
+      internalID: -7527094911560218616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_24
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1155
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9426631bd0f3390800000000000000
+      internalID: -7836529771828590126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_25
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1067
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b7fb45821b843e0800000000000000
+      internalID: -2069209241998099564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_26
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1067
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb64080705fac990800000000000000
+      internalID: -7364804830062941260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_27
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1067
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfc7df58d7885ed0800000000000000
+      internalID: -2425039035948347431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_28
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1067
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbaec3d82d24eb90800000000000000
+      internalID: -7213591049765213252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_29
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 979
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b5648abd03c3940800000000000000
+      internalID: 5277146583350532985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_30
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 979
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2994e6c6737b353c0800000000000000
+      internalID: -4371949364576368238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_31
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 979
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ef6f5829b623430800000000000000
+      internalID: 3761186915864739428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_32
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 979
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6819e2ed563c55550800000000000000
+      internalID: 6149035708530987398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_33
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 894
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42096a0b0d12850d0800000000000000
+      internalID: -3433957535669383132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_34
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 894
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd9b3440427daf50800000000000000
+      internalID: 6894292224922328502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_35
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 894
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde2ab011e545fac0800000000000000
+      internalID: -3822071875803402532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_36
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 894
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb14379999094e80800000000000000
+      internalID: -8194007491752485901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_37
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 892
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24a0771c0b134600800000000000000
+      internalID: 451234126413997101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_38
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 892
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9230f24222bc960800000000000000
+      internalID: 7623224333057599945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_39
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 891
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce95109c501738a70800000000000000
+      internalID: 8828023964237388268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_40
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 891
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74da5ff7f9908400800000000000000
+      internalID: 324428463590790269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_41
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 891
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5003f050c57c2afb0800000000000000
+      internalID: -4637925468202389499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_42
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 891
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7844f1b3d30affe30800000000000000
+      internalID: 4539523134258103431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_43
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 891
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f6bb3ff6abc8c70800000000000000
+      internalID: 8974753147435839338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_44
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 891
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4653ba7ec33518ab0800000000000000
+      internalID: -5007629789609380508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_45
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 891
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c336cd207b088c430800000000000000
+      internalID: 3803431408829752124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_46
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 808
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91b216c18e683390800000000000000
+      internalID: -7838393647785397859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_47
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 808
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cef22247e041900800000000000000
+      internalID: 654163737828125798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_48
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 808
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fd7703fbffc3350800000000000000
+      internalID: 5997950000367656768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_49
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 808
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9b3841977417be0800000000000000
+      internalID: -1481324217067390482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_50
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 715
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca0c6f9f6255b690800000000000000
+      internalID: -7587067357866226994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_51
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 715
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dfd1983fa0a40c10800000000000000
+      internalID: 2018915207397629910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_52
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 715
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef4672fff25d4160800000000000000
+      internalID: 7011351454123708392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_53
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 715
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93392f452e820ea0800000000000000
+      internalID: -5908003470263635041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_54
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 627
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a98a22c49d70d50800000000000000
+      internalID: 6703565491386489473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_55
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 627
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a276fd44b877d5a0800000000000000
+      internalID: -6496591221661207900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_56
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 627
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83455885233fd22b0800000000000000
+      internalID: -5607558563447352264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_57
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 627
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5baed155d63d31130800000000000000
+      internalID: 3536402598948891317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_58
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 627
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a62e03ad4ca907c0800000000000000
+      internalID: -4104560135923423578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_59
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 627
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cffe97476c1b5360800000000000000
+      internalID: 7159347262544347078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_60
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 627
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e61ee59a796a3640800000000000000
+      internalID: 5060473106526508777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_61
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 627
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2192629abdb29ec40800000000000000
+      internalID: 5542009038891788562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_62
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 539
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c71a82b5b4979c0800000000000000
+      internalID: -3929026345008268163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_63
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 539
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1268e33f32907dc0800000000000000
+      internalID: -3643251298391268833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_64
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 539
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4075e6b8546302b00800000000000000
+      internalID: 801700405991855876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_65
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 539
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eab98f7aedce0890800000000000000
+      internalID: -7489822723224782109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_66
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 539
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc1fd2fa75967d10800000000000000
+      internalID: 2123048629645024500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_67
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 539
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb0a07d37b766ab0800000000000000
+      internalID: -5015185397571253266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_68
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 539
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768867ab8a6a67240800000000000000
+      internalID: 4789198497368148071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_69
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 539
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212862ca0ec4069a0800000000000000
+      internalID: -6241904555690917358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_70
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 539
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba85e5a6e612cc570800000000000000
+      internalID: 8488196155801229483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_71
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 539
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23717042ff7d380c0800000000000000
+      internalID: -4574575305657215182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_72
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 451
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02aa5fd1bb14dead0800000000000000
+      internalID: -2671406732043507168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_73
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 451
+        width: 52
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30afca4458cb18c0800000000000000
+      internalID: -4027405177394847681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_74
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 451
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa61f724ac8f6e20800000000000000
+      internalID: 3346047684832226040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_75
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 451
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f197a6cc2fb25b60800000000000000
+      internalID: 7733453709180899825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_76
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 451
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f5f113fb5d18970800000000000000
+      internalID: 8755514167724564350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_77
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 451
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31753878b9e3df610800000000000000
+      internalID: 1656549075656595219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_78
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 451
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96e7329c25e1d750800000000000000
+      internalID: 6328090931026716314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_79
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 451
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e24f024574ded20800000000000000
+      internalID: 3309379727842881090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_80
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 451
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593ea03a799317120800000000000000
+      internalID: 2409770599058170773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_81
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 451
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4adf7bf5b0f6b30800000000000000
+      internalID: 4282654276389283003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_82
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 363
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b866ffb01eadcde50800000000000000
+      internalID: 6835578994545354379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_83
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 363
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81c8a49172c16b70800000000000000
+      internalID: 8890600932487250318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_84
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 363
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0dcfbb434119e760800000000000000
+      internalID: 7487534836211502349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_85
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 363
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcce7aa6f7c538a0800000000000000
+      internalID: -6325930239335674665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_86
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 363
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4b46b8bd66ea960800000000000000
+      internalID: 7615137113052591319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_87
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 363
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6d707a10e41cec0800000000000000
+      internalID: -3548469262386997561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_88
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 363
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa9c5ddd65fc18f0800000000000000
+      internalID: -568309600741451091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_89
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 363
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c090a02626597d8b0800000000000000
+      internalID: -5127465400953861876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_90
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 363
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4380dbbb18a33f5f0800000000000000
+      internalID: -724170786201597900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_91
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 363
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e65e19039acbc80800000000000000
+      internalID: -8305577586706780644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_92
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 275
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6d4cf231315bf10800000000000000
+      internalID: 2284753359087130331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_93
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 275
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c83690e0b5a21450800000000000000
+      internalID: 6058086627867506882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_94
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 275
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca96e9d3aebeb8be0800000000000000
+      internalID: -1473825061745038932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_95
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 275
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7cb8934f4d27150800000000000000
+      internalID: 5868987409819748313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_96
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 275
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a30223a523951eb0800000000000000
+      internalID: -4749728442132331615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_97
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 275
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0141cb37c73274fa0800000000000000
+      internalID: -5816641376301083632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_98
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 275
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5141901d66464f730800000000000000
+      internalID: 4031957959159911445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_99
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 275
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e919b25a3f9b9c0800000000000000
+      internalID: -3910826910668448220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_100
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 275
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9a74618c4526c30800000000000000
+      internalID: 4351133408337308143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_101
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 275
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df6a2841a4b0f570800000000000000
+      internalID: 8498491101641600982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_102
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 275
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc9345a271fa4e40800000000000000
+      internalID: 5641586957936205014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_103
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 187
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da047382f8455c4b0800000000000000
+      internalID: -5420833602638757715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_104
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 187
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f6fab65798f3bb0800000000000000
+      internalID: -4954089927673417867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_105
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 187
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7dded9d23050b80800000000000000
+      internalID: -8429327633095993402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_106
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 187
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f6f1ac2b4fde910800000000000000
+      internalID: 1868418469161037652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_107
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 187
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee416e4d0b234dc0800000000000000
+      internalID: -3656031136345141524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_108
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 187
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7174d05bbc24660800000000000000
+      internalID: 7368675918803834815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_109
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 187
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbf6a7d1e8c83a00800000000000000
+      internalID: 736559411386317770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_110
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 187
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123d834c1ee6e62a0800000000000000
+      internalID: -6742329676188298463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_111
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 187
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c66a621990da660800000000000000
+      internalID: 7398580281862941726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_112
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 187
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05160601524f8c890800000000000000
+      internalID: -7437426344576655024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_113
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 187
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d86a04d82daa9ef0800000000000000
+      internalID: -100577650794665769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_114
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 187
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f79e67a659777170800000000000000
+      internalID: 8176137061597616116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_115
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 187
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2498cbf675f7bb360800000000000000
+      internalID: 7186477643913267522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_116
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 187
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b48f40112f03b50800000000000000
+      internalID: 6571018011245300549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_117
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 187
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23d03a518e0f85b0800000000000000
+      internalID: -5364052682448252117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_118
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 187
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d27d7932e87679b0800000000000000
+      internalID: -5082742216418561326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_119
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 187
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e658247c18c53340800000000000000
+      internalID: 4842996998840276712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_120
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 187
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235d09dd3ddab4050800000000000000
+      internalID: 5785909271754495282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_121
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 187
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88403f999117693d0800000000000000
+      internalID: -3200246130429197176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_122
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 99
+        width: 25
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27b35bdb8f8c4d20800000000000000
+      internalID: 3264141660779689771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_123
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 94
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ad871ac941cf190800000000000000
+      internalID: -7927438581122409874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_124
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 116
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4658de272de8cfc0800000000000000
+      internalID: -3474266359970900406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_125
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 119
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9612300a6155770800000000000000
+      internalID: 8598803940036929977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_126
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 124
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdaf724fabe35daf0800000000000000
+      internalID: -372322421507097893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_127
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 126
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867951302b62d37f0800000000000000
+      internalID: -631305826764220568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_128
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 122
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0e8953e0e9b6b40800000000000000
+      internalID: 5434611159218577595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_129
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 129
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fae67b03c1b3a040800000000000000
+      internalID: 4657761890900306675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_130
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 129
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83611c6f2ff8f8f30800000000000000
+      internalID: 4580037619743790648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_131
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 139
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef11b6af889d9a830800000000000000
+      internalID: 4083033719528165886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_132
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 140
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504ab23730318d1f0800000000000000
+      internalID: -1020044410061347835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_133
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 141
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc43be397391076f0800000000000000
+      internalID: -689023016492124977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_134
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 141
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c1ff2642f222680800000000000000
+      internalID: -8781404490092831589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_135
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 141
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f939e41024f8ea4b0800000000000000
+      internalID: -5427242987282328673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_136
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 139
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2675dac318a0ce0800000000000000
+      internalID: -1438195033385246020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_137
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 136
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a437d2254e566f0800000000000000
+      internalID: -691895926130521534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_138
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 131
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abfdfe5dcb3e74a0800000000000000
+      internalID: -6593767051175789656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_139
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 121
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a79c30e4bb06c390800000000000000
+      internalID: -7798532833261348955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_140
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 99
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0dc40d960101290800000000000000
+      internalID: -7921813697892396849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_141
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 93
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340045a48805735c0800000000000000
+      internalID: -4235828378225868733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_142
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac9e4d71e0ae7500800000000000000
+      internalID: 395930707585572011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_143
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 119
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721c863b44e4cea70800000000000000
+      internalID: 8857540624105652519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_144
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 93
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4659f66d8321d5ef0800000000000000
+      internalID: -117917979916659356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_145
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 119
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63a4d9d8606744f0800000000000000
+      internalID: -844600401661222034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_146
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 93
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7271be7e3c0066050800000000000000
+      internalID: 5793318812068288295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_147
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 103
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33adab5cca5bd320800000000000000
+      internalID: 2583758644985045823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_148
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 113
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7624297d53b7fe6e0800000000000000
+      internalID: -1806089454372109721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_149
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 99
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b0698d929411700800000000000000
+      internalID: 509268676945775391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_150
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 93
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335cf6847cd486f20800000000000000
+      internalID: 3416065835669636403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_151
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 93
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa94d707531ba20a0800000000000000
+      internalID: -6905512235540592209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_152
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 95
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d908c1c85c90fdf30800000000000000
+      internalID: 4602408088259821725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_153
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808564d188dec9ea0800000000000000
+      internalID: -5864551445880743928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_154
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 101
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13dba87ec14e7c0c0800000000000000
+      internalID: -4555421685267120847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_155
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 99
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6a3c10aa2a99080800000000000000
+      internalID: -9180127514360305936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_156
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 101
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ba4b99601e41360800000000000000
+      internalID: 7139578727753886579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_157
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 99
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c107c49c9d75fa720800000000000000
+      internalID: 2859600881300303900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_158
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 99
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bf49ff0f843ab00800000000000000
+      internalID: 838594155538348899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_159
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 99
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141f406050a2d1a30800000000000000
+      internalID: 4187549429588619585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_160
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705c2c9e201fd88d0800000000000000
+      internalID: -2842350794986830585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_161
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d026daa7cbb4700800000000000000
+      internalID: 525721016599710998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_162
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3221e38fe8d3990800000000000000
+      internalID: -7404605015482817541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_163
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 3
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90abffc31056292c0800000000000000
+      internalID: -4426364427759011319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_164
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 4
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1485a11ea12a2e20800000000000000
+      internalID: 3326508306270618651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_165
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 4
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a1a69adacf55710800000000000000
+      internalID: 1681527858694593123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_166
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 9
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44aa942bccf585180800000000000000
+      internalID: -9126439312097170876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_167
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 10
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925e3dc3a58b08e20800000000000000
+      internalID: 3350880820470736169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_168
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 10
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe710f38c61645d0800000000000000
+      internalID: -3078748245954822467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_169
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 11
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd472ffeb3151250800000000000000
+      internalID: 5914655396666494454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_170
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 11
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488a4c41d1ae97e30800000000000000
+      internalID: 4501886713156905092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_171
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 11
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605f64f95f2f83c60800000000000000
+      internalID: 7798249891545150726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light with FX_172
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 11
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9743e2a6370ee22f0800000000000000
+      internalID: -995611681295027079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

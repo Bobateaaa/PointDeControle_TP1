@@ -1,0 +1,4135 @@
+fileFormatVersion: 2
+guid: fd4936af2209b3c439602bde7fe649ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5181483057814455608
+    second: Dark with FX_0
+  - first:
+      213: -8577899373624984402
+    second: Dark with FX_1
+  - first:
+      213: -6567399532913424284
+    second: Dark with FX_2
+  - first:
+      213: 776704169630934970
+    second: Dark with FX_3
+  - first:
+      213: -6683830136276434803
+    second: Dark with FX_4
+  - first:
+      213: -303849653394244463
+    second: Dark with FX_5
+  - first:
+      213: -7776616619885556156
+    second: Dark with FX_6
+  - first:
+      213: -7122817325523864216
+    second: Dark with FX_7
+  - first:
+      213: 2030769614556150463
+    second: Dark with FX_8
+  - first:
+      213: -5435475077907268241
+    second: Dark with FX_9
+  - first:
+      213: 1579897609151978018
+    second: Dark with FX_10
+  - first:
+      213: -7329348299551539116
+    second: Dark with FX_11
+  - first:
+      213: -4881466328089918346
+    second: Dark with FX_12
+  - first:
+      213: 9181523117649782929
+    second: Dark with FX_13
+  - first:
+      213: -769896639648083144
+    second: Dark with FX_14
+  - first:
+      213: -4219358733572159365
+    second: Dark with FX_15
+  - first:
+      213: -5772408684968698444
+    second: Dark with FX_16
+  - first:
+      213: 334825034230288994
+    second: Dark with FX_17
+  - first:
+      213: 578656237671820576
+    second: Dark with FX_18
+  - first:
+      213: -6100716033906803456
+    second: Dark with FX_19
+  - first:
+      213: -1556695062435596213
+    second: Dark with FX_20
+  - first:
+      213: -7882109806905242867
+    second: Dark with FX_21
+  - first:
+      213: -3156127770806346245
+    second: Dark with FX_22
+  - first:
+      213: 7511990484630650046
+    second: Dark with FX_23
+  - first:
+      213: -5653443224884836452
+    second: Dark with FX_24
+  - first:
+      213: 6792971863122556267
+    second: Dark with FX_25
+  - first:
+      213: -9048446193448556621
+    second: Dark with FX_26
+  - first:
+      213: -3950107632370559773
+    second: Dark with FX_27
+  - first:
+      213: -6584567312668362317
+    second: Dark with FX_28
+  - first:
+      213: -2086686358976839487
+    second: Dark with FX_29
+  - first:
+      213: -2356212822110098228
+    second: Dark with FX_30
+  - first:
+      213: 7056522801384714937
+    second: Dark with FX_31
+  - first:
+      213: 361750571521082990
+    second: Dark with FX_32
+  - first:
+      213: 3949157022467449478
+    second: Dark with FX_33
+  - first:
+      213: 1833318161738958414
+    second: Dark with FX_34
+  - first:
+      213: -6678315928635549282
+    second: Dark with FX_35
+  - first:
+      213: -8807341276750452805
+    second: Dark with FX_36
+  - first:
+      213: -3213289958101180246
+    second: Dark with FX_37
+  - first:
+      213: 9074481126864200726
+    second: Dark with FX_38
+  - first:
+      213: -6821362362460620731
+    second: Dark with FX_39
+  - first:
+      213: 3003249883441700839
+    second: Dark with FX_40
+  - first:
+      213: 1000082215381454520
+    second: Dark with FX_41
+  - first:
+      213: 1176346507286582614
+    second: Dark with FX_42
+  - first:
+      213: -3879446588881899786
+    second: Dark with FX_43
+  - first:
+      213: 5862756341190124337
+    second: Dark with FX_44
+  - first:
+      213: 2301614323352708685
+    second: Dark with FX_45
+  - first:
+      213: 3466455103814231456
+    second: Dark with FX_46
+  - first:
+      213: -6037935377236719323
+    second: Dark with FX_47
+  - first:
+      213: -8265881103976867598
+    second: Dark with FX_48
+  - first:
+      213: 5220277560977569298
+    second: Dark with FX_49
+  - first:
+      213: 8629730213489453202
+    second: Dark with FX_50
+  - first:
+      213: 1502835284640839626
+    second: Dark with FX_51
+  - first:
+      213: -4310248264447275908
+    second: Dark with FX_52
+  - first:
+      213: -6790700061509573525
+    second: Dark with FX_53
+  - first:
+      213: -2773106765958920496
+    second: Dark with FX_54
+  - first:
+      213: -5219942925602895829
+    second: Dark with FX_55
+  - first:
+      213: -5960902771742588005
+    second: Dark with FX_56
+  - first:
+      213: 5820099340031997148
+    second: Dark with FX_57
+  - first:
+      213: 1229823248823368710
+    second: Dark with FX_58
+  - first:
+      213: 5473176523219852946
+    second: Dark with FX_59
+  - first:
+      213: -8428146131971218434
+    second: Dark with FX_60
+  - first:
+      213: 7090357781060531193
+    second: Dark with FX_61
+  - first:
+      213: -1040981466685793248
+    second: Dark with FX_62
+  - first:
+      213: -2042582106521716834
+    second: Dark with FX_63
+  - first:
+      213: -102557189272698114
+    second: Dark with FX_64
+  - first:
+      213: -4803355203007084470
+    second: Dark with FX_65
+  - first:
+      213: 1638819893968859059
+    second: Dark with FX_66
+  - first:
+      213: -2394808637551225678
+    second: Dark with FX_67
+  - first:
+      213: 2950997207264659406
+    second: Dark with FX_68
+  - first:
+      213: 8991118154686816114
+    second: Dark with FX_69
+  - first:
+      213: 3401579242535690992
+    second: Dark with FX_70
+  - first:
+      213: -494775766981997534
+    second: Dark with FX_71
+  - first:
+      213: 1378578298623892379
+    second: Dark with FX_72
+  - first:
+      213: -1184615731657681313
+    second: Dark with FX_73
+  - first:
+      213: 2947364868258799312
+    second: Dark with FX_74
+  - first:
+      213: 7980479481894638272
+    second: Dark with FX_75
+  - first:
+      213: 6213515692901750401
+    second: Dark with FX_76
+  - first:
+      213: 4326485554248918862
+    second: Dark with FX_77
+  - first:
+      213: -1606494854245699597
+    second: Dark with FX_78
+  - first:
+      213: -8631805355496328851
+    second: Dark with FX_79
+  - first:
+      213: 1554201875194091675
+    second: Dark with FX_80
+  - first:
+      213: 467322682762932011
+    second: Dark with FX_81
+  - first:
+      213: -6433999618927764733
+    second: Dark with FX_82
+  - first:
+      213: 7759918982710352809
+    second: Dark with FX_83
+  - first:
+      213: -5567959755305999771
+    second: Dark with FX_84
+  - first:
+      213: -1623623291247205564
+    second: Dark with FX_85
+  - first:
+      213: 1216039968730274745
+    second: Dark with FX_86
+  - first:
+      213: -9157005947695259016
+    second: Dark with FX_87
+  - first:
+      213: -9023986229818565438
+    second: Dark with FX_88
+  - first:
+      213: -2752267023946478315
+    second: Dark with FX_89
+  - first:
+      213: -8307880119749332725
+    second: Dark with FX_90
+  - first:
+      213: 8812051735918019484
+    second: Dark with FX_91
+  - first:
+      213: -3047955004455252754
+    second: Dark with FX_92
+  - first:
+      213: 4358870586090855021
+    second: Dark with FX_93
+  - first:
+      213: -787231764478124446
+    second: Dark with FX_94
+  - first:
+      213: 2554408277446584429
+    second: Dark with FX_95
+  - first:
+      213: -6174533911561667069
+    second: Dark with FX_96
+  - first:
+      213: 875277414990990287
+    second: Dark with FX_97
+  - first:
+      213: 5568358237125873174
+    second: Dark with FX_98
+  - first:
+      213: -3527157638569724652
+    second: Dark with FX_99
+  - first:
+      213: 6085281083980294631
+    second: Dark with FX_100
+  - first:
+      213: -2987326304772929510
+    second: Dark with FX_101
+  - first:
+      213: -8213736891225454705
+    second: Dark with FX_102
+  - first:
+      213: 5798327661828254717
+    second: Dark with FX_103
+  - first:
+      213: 8559857504945064484
+    second: Dark with FX_104
+  - first:
+      213: 6309529986761717153
+    second: Dark with FX_105
+  - first:
+      213: -3222938831519490611
+    second: Dark with FX_106
+  - first:
+      213: -5178277847940435734
+    second: Dark with FX_107
+  - first:
+      213: 104034653565802935
+    second: Dark with FX_108
+  - first:
+      213: -2085307772917933138
+    second: Dark with FX_109
+  - first:
+      213: -4143499987216499894
+    second: Dark with FX_110
+  - first:
+      213: -2052656343210971703
+    second: Dark with FX_111
+  - first:
+      213: 9126786174166050867
+    second: Dark with FX_112
+  - first:
+      213: -473504233775341976
+    second: Dark with FX_113
+  - first:
+      213: -5997776131612331481
+    second: Dark with FX_114
+  - first:
+      213: 2318814232283917482
+    second: Dark with FX_115
+  - first:
+      213: -3444859598938987410
+    second: Dark with FX_116
+  - first:
+      213: -6709880306468513907
+    second: Dark with FX_117
+  - first:
+      213: -1647683322938583566
+    second: Dark with FX_118
+  - first:
+      213: 6936390067817434936
+    second: Dark with FX_119
+  - first:
+      213: 8981805599316713524
+    second: Dark with FX_120
+  - first:
+      213: 6853133152740663837
+    second: Dark with FX_121
+  - first:
+      213: -7471098568477454713
+    second: Dark with FX_122
+  - first:
+      213: -4354694794857813079
+    second: Dark with FX_123
+  - first:
+      213: 478418994414426309
+    second: Dark with FX_124
+  - first:
+      213: 6169131250417547919
+    second: Dark with FX_125
+  - first:
+      213: -7660935155082394817
+    second: Dark with FX_126
+  - first:
+      213: 2038366013888104784
+    second: Dark with FX_127
+  - first:
+      213: -3868758011693606353
+    second: Dark with FX_128
+  - first:
+      213: -8374443266342452085
+    second: Dark with FX_129
+  - first:
+      213: 6177090528781165129
+    second: Dark with FX_130
+  - first:
+      213: 7858957698932233057
+    second: Dark with FX_131
+  - first:
+      213: 9172980257231960507
+    second: Dark with FX_132
+  - first:
+      213: -2351119473355885546
+    second: Dark with FX_133
+  - first:
+      213: 5377583992209472256
+    second: Dark with FX_134
+  - first:
+      213: 4479867740209324681
+    second: Dark with FX_135
+  - first:
+      213: -8130348877710162940
+    second: Dark with FX_136
+  - first:
+      213: -2193152609486950459
+    second: Dark with FX_137
+  - first:
+      213: 285892042724472241
+    second: Dark with FX_138
+  - first:
+      213: 2023319069429244755
+    second: Dark with FX_139
+  - first:
+      213: 4297380980589554121
+    second: Dark with FX_140
+  - first:
+      213: 6757592241445158757
+    second: Dark with FX_141
+  - first:
+      213: 5308506731063598275
+    second: Dark with FX_142
+  - first:
+      213: -2710018152768440837
+    second: Dark with FX_143
+  - first:
+      213: -7517851448156337325
+    second: Dark with FX_144
+  - first:
+      213: 7890220171547967547
+    second: Dark with FX_145
+  - first:
+      213: 305930978765643278
+    second: Dark with FX_146
+  - first:
+      213: 6274207225979388487
+    second: Dark with FX_147
+  - first:
+      213: 6945341315435388375
+    second: Dark with FX_148
+  - first:
+      213: 7068753695912968186
+    second: Dark with FX_149
+  - first:
+      213: 8417762307578015392
+    second: Dark with FX_150
+  - first:
+      213: 720043988148914184
+    second: Dark with FX_151
+  - first:
+      213: -8358066147343730469
+    second: Dark with FX_152
+  - first:
+      213: -5745841139270242589
+    second: Dark with FX_153
+  - first:
+      213: 4026254847109478469
+    second: Dark with FX_154
+  - first:
+      213: -8801857994448480199
+    second: Dark with FX_155
+  - first:
+      213: 5289587387654096866
+    second: Dark with FX_156
+  - first:
+      213: -8026599479585656349
+    second: Dark with FX_157
+  - first:
+      213: -3185393074109855961
+    second: Dark with FX_158
+  - first:
+      213: 4705863483257215435
+    second: Dark with FX_159
+  - first:
+      213: 8596162444984880767
+    second: Dark with FX_160
+  - first:
+      213: -5676440309557940191
+    second: Dark with FX_161
+  - first:
+      213: 1137856268193203510
+    second: Dark with FX_162
+  - first:
+      213: 6596941242742058867
+    second: Dark with FX_163
+  - first:
+      213: 4366398932806139955
+    second: Dark with FX_164
+  - first:
+      213: -8363388892267632195
+    second: Dark with FX_165
+  - first:
+      213: 211941367951002186
+    second: Dark with FX_166
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dark with FX_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1507
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8354cbe636358e740800000000000000
+      internalID: 5181483057814455608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1507
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac7904a7fd25f880800000000000000
+      internalID: -8577899373624984402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1507
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46801ae9be8ebd4a0800000000000000
+      internalID: -6567399532913424284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_3
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1419
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7aa6eb35867ca00800000000000000
+      internalID: 776704169630934970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1419
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80413c47e34e33a0800000000000000
+      internalID: -6683830136276434803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_5
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1419
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c7f40a95288cbf0800000000000000
+      internalID: -303849653394244463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_6
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1419
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e8251f268e31490800000000000000
+      internalID: -7776616619885556156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_7
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1419
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865f628716ba62d90800000000000000
+      internalID: -7122817325523864216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1331
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbab648743ebe2c10800000000000000
+      internalID: 2030769614556150463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_9
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1331
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d39db07305194b0800000000000000
+      internalID: -5435475077907268241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_10
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1243
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a1efe318cece510800000000000000
+      internalID: 1579897609151978018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1243
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4500e1add8ce84a90800000000000000
+      internalID: -7329348299551539116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_12
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1243
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6748b2bdc3c814cb0800000000000000
+      internalID: -4881466328089918346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_13
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1243
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1986d8431a25b6f70800000000000000
+      internalID: 9181523117649782929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_14
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1155
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8335208d517c055f0800000000000000
+      internalID: -769896639648083144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_15
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1155
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b784d714693d175c0800000000000000
+      internalID: -4219358733572159365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_16
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1156
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd9f0272e844efa0800000000000000
+      internalID: -5772408684968698444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_17
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1156
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262543b389985a400800000000000000
+      internalID: 334825034230288994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_18
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1155
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d2e7548ccc70800800000000000000
+      internalID: 578656237671820576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_19
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1155
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d74731717e55ba0800000000000000
+      internalID: -6100716033906803456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_20
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1155
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48fbe3a612856ae0800000000000000
+      internalID: -1556695062435596213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_21
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1156
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b4ace44ee1d9290800000000000000
+      internalID: -7882109806905242867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_22
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1156
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd975ba38e2334d0800000000000000
+      internalID: -3156127770806346245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_23
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1155
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc3688ab83ff3860800000000000000
+      internalID: 7511990484630650046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_24
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1067
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9786e6175fea81b0800000000000000
+      internalID: -5653443224884836452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1067
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65b4a63beb754e50800000000000000
+      internalID: 6792971863122556267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_26
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1067
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b76346b0267d6280800000000000000
+      internalID: -9048446193448556621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_27
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1067
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e45ef379066e29c0800000000000000
+      internalID: -3950107632370559773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_28
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 979
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9f0c86aeaee94a0800000000000000
+      internalID: -6584567312668362317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 979
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0488fefc99a03e0800000000000000
+      internalID: -2086686358976839487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_30
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 979
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc28ea0cec0d4fd0800000000000000
+      internalID: -2356212822110098228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_31
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 979
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2fafdc91ecde160800000000000000
+      internalID: 7056522801384714937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_32
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 894
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e660fc86a32350500800000000000000
+      internalID: 361750571521082990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_33
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 894
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682696e63693ec630800000000000000
+      internalID: 3949157022467449478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_34
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 894
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4609be9721417910800000000000000
+      internalID: 1833318161738958414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_35
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 894
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9958dfcb0bd153a0800000000000000
+      internalID: -6678315928635549282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_36
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 892
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb767a7a5c906c580800000000000000
+      internalID: -8807341276750452805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_37
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 892
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0ac0fcec91863d0800000000000000
+      internalID: -3213289958101180246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_38
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 891
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6142ab791880fed70800000000000000
+      internalID: 9074481126864200726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_39
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 891
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548b05d8217a551a0800000000000000
+      internalID: -6821362362460620731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_40
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 891
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef964a6bdfada920800000000000000
+      internalID: 3003249883441700839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_41
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 891
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be4ff9e97101ed00800000000000000
+      internalID: 1000082215381454520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_42
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 891
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65596937ae8335010800000000000000
+      internalID: 1176346507286582614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_43
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 891
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fee790b1ef692ac0800000000000000
+      internalID: -3879446588881899786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_44
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 891
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1336e4184d1bc5150800000000000000
+      internalID: 5862756341190124337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_45
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 808
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46a369580af0ff10800000000000000
+      internalID: 2301614323352708685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_46
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 808
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5efa40d825b1030800000000000000
+      internalID: 3466455103814231456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_47
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 808
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5298a07c3c1f43ca0800000000000000
+      internalID: -6037935377236719323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_48
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 808
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f858d13ee0b94d80800000000000000
+      internalID: -8265881103976867598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_49
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 715
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216b20398c6227840800000000000000
+      internalID: 5220277560977569298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_50
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 715
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298ae7a28e5f2c770800000000000000
+      internalID: 8629730213489453202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_51
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 715
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7b0f0aab42bd410800000000000000
+      internalID: 1502835284640839626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_52
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 715
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c40e74a0cee24c0800000000000000
+      internalID: -4310248264447275908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_53
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 627
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64af71d54692c1a0800000000000000
+      internalID: -6790700061509573525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_54
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 627
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d649c2c612f389d0800000000000000
+      internalID: -2773106765958920496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_55
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 627
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2840abc0990f87b0800000000000000
+      internalID: -5219942925602895829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_56
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 622
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9344a5e28e964da0800000000000000
+      internalID: -5960902771742588005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_57
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 622
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4b718738525c050800000000000000
+      internalID: 5820099340031997148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_58
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 623
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c32aa9ab5311110800000000000000
+      internalID: 1229823248823368710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_59
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 622
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ed68bbc01a4fb40800000000000000
+      internalID: 5473176523219852946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_60
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 627
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3e5c84fb5390b80800000000000000
+      internalID: -8428146131971218434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_61
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 627
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f33a86e5d2066260800000000000000
+      internalID: 7090357781060531193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_62
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 539
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c9d641fd0bd81f0800000000000000
+      internalID: -1040981466685793248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_63
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 539
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97343c656a47a3e0800000000000000
+      internalID: -2042582106521716834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_64
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 539
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef20d3c97c4a39ef0800000000000000
+      internalID: -102557189272698114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_65
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 539
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a480db264ed075db0800000000000000
+      internalID: -4803355203007084470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_66
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 539
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf6bdeb2024eb610800000000000000
+      internalID: 1638819893968859059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_67
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 539
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4d8bd7b3ee3ced0800000000000000
+      internalID: -2394808637551225678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_68
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 539
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec70e20335c04f820800000000000000
+      internalID: 2950997207264659406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_69
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 547
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f5caf135ed6cc70800000000000000
+      internalID: 8991118154686816114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_70
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 539
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2aeaa7c46d43f20800000000000000
+      internalID: 3401579242535690992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_71
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 539
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c0195bf043229f0800000000000000
+      internalID: -494775766981997534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_72
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 539
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b1a8898a1b12310800000000000000
+      internalID: 1378578298623892379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_73
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 539
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f565437b4466f8fe0800000000000000
+      internalID: -1184615731657681313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_74
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 451
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de180c5bb427e820800000000000000
+      internalID: 2947364868258799312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_75
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 447
+        width: 57
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c29f9f6ecb50ce60800000000000000
+      internalID: 7980479481894638272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_76
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 451
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18659b12a97da3650800000000000000
+      internalID: 6213515692901750401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_77
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 451
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47adda50b3ca0c30800000000000000
+      internalID: 4326485554248918862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_78
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 451
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff213f017594b9e0800000000000000
+      internalID: -1606494854245699597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_79
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 451
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61b35f23caa53880800000000000000
+      internalID: -8631805355496328851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_80
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 451
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b989038fe52a19510800000000000000
+      internalID: 1554201875194091675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_81
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 451
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f219501834c7600800000000000000
+      internalID: 467322682762932011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_82
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 451
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30bdfc47f67d5b6a0800000000000000
+      internalID: -6433999618927764733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_83
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 451
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9abd2427335c0bb60800000000000000
+      internalID: 7759918982710352809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_84
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 362
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562a0555a12aab2b0800000000000000
+      internalID: -5567959755305999771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_85
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 358
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443e82c083bb779e0800000000000000
+      internalID: -1623623291247205564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_86
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 359
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb58d0a8ed30e010800000000000000
+      internalID: 1216039968730274745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_87
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 360
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8722c714b97cbe080800000000000000
+      internalID: -9157005947695259016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_88
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 359
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccd5a9c55c54c280800000000000000
+      internalID: -9023986229818565438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_89
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 359
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d06ae49bbfdc9d0800000000000000
+      internalID: -2752267023946478315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_90
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 359
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01bfc15c0b74bc80800000000000000
+      internalID: -8307880119749332725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_91
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 359
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9302c59d52ba4a70800000000000000
+      internalID: 8812051735918019484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_92
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 359
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec021c721d73b5d0800000000000000
+      internalID: -3047955004455252754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_93
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 359
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a18d924b1dd7c30800000000000000
+      internalID: 4358870586090855021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_94
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 271
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e906291e03315f0800000000000000
+      internalID: -787231764478124446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_95
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 269
+        width: 61
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6865846bc4137320800000000000000
+      internalID: 2554408277446584429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_96
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 270
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e73cb1f16af4aa0800000000000000
+      internalID: -6174533911561667069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_97
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 269
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbc578eb2c952c00800000000000000
+      internalID: 875277414990990287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_98
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 269
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e02027058c64d40800000000000000
+      internalID: 5568358237125873174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_99
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 269
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415fe3eb0d40d0fc0800000000000000
+      internalID: -3527157638569724652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_100
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 269
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9ac0997e2437450800000000000000
+      internalID: 6085281083980294631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_101
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 269
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1844d7ad82ea86d0800000000000000
+      internalID: -2987326304772929510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_102
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 269
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f874cffc0d1f20e80800000000000000
+      internalID: -8213736891225454705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_103
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 269
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb289e994cc77050800000000000000
+      internalID: 5798327661828254717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_104
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 269
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a46367c09bac670800000000000000
+      internalID: 8559857504945064484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_105
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 187
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a57b98f714ff8750800000000000000
+      internalID: 6309529986761717153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_106
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 187
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdd7766532d543d0800000000000000
+      internalID: -3222938831519490611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_107
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 187
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae07c35abbf0328b0800000000000000
+      internalID: -5178277847940435734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_108
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 187
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9de1a57fa917100800000000000000
+      internalID: 104034653565802935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_109
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 187
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab9dd301af7f03e0800000000000000
+      internalID: -2085307772917933138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_110
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 187
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4bff1ff6b45f76c0800000000000000
+      internalID: -4143499987216499894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_111
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 187
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd25f86eef7383e0800000000000000
+      internalID: -2052656343210971703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_112
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 187
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3382d1c6babd8ae70800000000000000
+      internalID: 9126786174166050867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_113
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 187
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e5d2a7866cd69f0800000000000000
+      internalID: -473504233775341976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_114
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 187
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7223ee8c26e93cca0800000000000000
+      internalID: -5997776131612331481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_115
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 187
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac276732451e2020800000000000000
+      internalID: 2318814232283917482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_116
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 187
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64a52842766130d0800000000000000
+      internalID: -3444859598938987410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_117
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 187
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d871e876967b1e2a0800000000000000
+      internalID: -6709880306468513907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_118
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 187
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f519e16fb04229e0800000000000000
+      internalID: -1647683322938583566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_119
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 187
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f4ecf1402034060800000000000000
+      internalID: 6936390067817434936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_120
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 187
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43023ecda98c5ac70800000000000000
+      internalID: 8981805599316713524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_121
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 187
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d126f8ffa483b1f50800000000000000
+      internalID: 6853133152740663837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_122
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 187
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ec8ff7f63515890800000000000000
+      internalID: -7471098568477454713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_123
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 187
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9abe14ff7240193c0800000000000000
+      internalID: -4354694794857813079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_124
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 99
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c81fd76a8fa3a600800000000000000
+      internalID: 478418994414426309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_125
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 88
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a36e1df282d9550800000000000000
+      internalID: 6169131250417547919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_126
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 87
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33030ad014eea590800000000000000
+      internalID: -7660935155082394817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_127
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 87
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0598704071bb94c10800000000000000
+      internalID: 2038366013888104784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_128
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 87
+        width: 71
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a5e0ff5196f4ac0800000000000000
+      internalID: -3868758011693606353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_129
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 87
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b840ffd083008cb80800000000000000
+      internalID: -8374443266342452085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_130
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 97
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9426e69bb1f69b550800000000000000
+      internalID: 6177090528781165129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_131
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 98
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1635dad7360a01d60800000000000000
+      internalID: 7858957698932233057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_132
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 113
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb97bf381f8fc4f70800000000000000
+      internalID: 9172980257231960507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_133
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 118
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6147e16bb452f5fd0800000000000000
+      internalID: -2351119473355885546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_134
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 99
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00bf875362401aa40800000000000000
+      internalID: 5377583992209472256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_135
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 121
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982a8ef69ffab2e30800000000000000
+      internalID: 4479867740209324681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_136
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 123
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404071ca5c23b2f80800000000000000
+      internalID: -8130348877710162940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_137
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 123
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf2f4d425b5091e0800000000000000
+      internalID: -2193152609486950459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_138
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 139
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5f3b25c41b7f300800000000000000
+      internalID: 285892042724472241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_139
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 140
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353aa9049f5441c10800000000000000
+      internalID: 2023319069429244755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_140
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 141
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c96f8cbb3d53ab30800000000000000
+      internalID: 4297380980589554121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_141
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 141
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f3640275ac7cd50800000000000000
+      internalID: 6757592241445158757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_142
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 141
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ccd0d80fba9ba940800000000000000
+      internalID: 5308506731063598275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_143
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 133
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5706d29d4146ad0800000000000000
+      internalID: -2710018152768440837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_144
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 130
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b4c7e60f93ba790800000000000000
+      internalID: -7517851448156337325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_145
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 125
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b300dbc1171bf7d60800000000000000
+      internalID: 7890220171547967547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_146
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 115
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e1d13ba92ee3400800000000000000
+      internalID: 305930978765643278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_147
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 87
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742c0b7da36721750800000000000000
+      internalID: 6274207225979388487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_148
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 99
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddde5ed02fc26060800000000000000
+      internalID: 6945341315435388375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_149
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 95
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff3f99d802491260800000000000000
+      internalID: 7068753695912968186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_150
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 95
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae2cd23836e1d470800000000000000
+      internalID: 8417762307578015392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_151
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 98
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8088548313c1ef900800000000000000
+      internalID: 720043988148914184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_152
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 99
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8fb563f1f220c80800000000000000
+      internalID: -8358066147343730469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_153
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 5
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eea8f53deba240b0800000000000000
+      internalID: -5745841139270242589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_154
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548b721937120e730800000000000000
+      internalID: 4026254847109478469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_155
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 8
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938577dc9c489d580800000000000000
+      internalID: -8801857994448480199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_156
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 9
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7428124b3686940800000000000000
+      internalID: 5289587387654096866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_157
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 10
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e136f0dc4acb9090800000000000000
+      internalID: -8026599479585656349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_158
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 10
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72741b340e53bc3d0800000000000000
+      internalID: -3185393074109855961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_159
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 11
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc95701c7e59e4140800000000000000
+      internalID: 4705863483257215435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_160
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 11
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e80e40334bb4770800000000000000
+      internalID: 8596162444984880767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_161
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 11
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12037101d9b3931b0800000000000000
+      internalID: -5676440309557940191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_162
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 11
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6358b1f4f3a7acf00800000000000000
+      internalID: 1137856268193203510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_163
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 32
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fa3c1bb1b0d8b50800000000000000
+      internalID: 6596941242742058867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_164
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 11
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3300e89f1b0989c30800000000000000
+      internalID: 4366398932806139955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_165
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 11
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9a0f51d164feb80800000000000000
+      internalID: -8363388892267632195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark with FX_166
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 11
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a0eed1d87f0f200800000000000000
+      internalID: 211941367951002186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
