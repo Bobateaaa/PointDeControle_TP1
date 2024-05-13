@@ -17,6 +17,7 @@ public class DeplacementPersonnage : MonoBehaviour
     public float vitesseX; //vitesse de déplacement horizontale
     public float vitesseY; //  vitesse de déplacement vertical
     bool peutAttaquer; // peut attaquer
+    bool peutEtreAttaquer; // peut être attaquer
     bool finPartie; // fin de la partie
     public AudioClip musiqueAmbianteJeu; // son mort
     public AudioClip sonAttaque1; // son attaque 1
@@ -27,12 +28,10 @@ public class DeplacementPersonnage : MonoBehaviour
     bool estTeleporter; // est teleporter
     public GameObject objetTeleportationBase; // objet teleportation dans l'environnent de gazon
     public GameObject objetTeleportationDonjon; // objet teleportation dans l'environnent du fort/donjon
-    public GameObject autreGameObject; // un autre game object
-    EnnemiSlime scriptSlime; // le script slime
-    int vieSlime; // compteur de vie du slime
-    int attaqueSlime; // attaque du slime
+    public GameObject attaqueOriginale; // objet teleportation
     public int ViePersonnage;  // compteur de vie du personnage
     public int AttaquePersonnage; // attaque du personnage
+
     public TextMeshProUGUI textViePersonnage; // text vie personnage
     public TextMeshProUGUI textAttaquePersonnage; // text attaque personnage
     public TextMeshProUGUI textFinPartie; // text fin de la partie
@@ -42,12 +41,11 @@ public class DeplacementPersonnage : MonoBehaviour
     //Fonction qui s'exécute au démarrage du jeu
     void Start()
     {
-        // On récupère le script de l'ennemi
-        scriptSlime = autreGameObject.GetComponent<EnnemiSlime>();
 
         // Initialisation des variables
         peutAttaquer = true;
         finPartie = false;
+        peutEtreAttaquer = true;
         ViePersonnage = 10;
         AttaquePersonnage = 2;
 
@@ -57,14 +55,11 @@ public class DeplacementPersonnage : MonoBehaviour
         sourceAudio.loop = true; 
         sourceAudio.Play();
 
-        // On récupère les valeurs de vie et d'attaque du slime
-        vieSlime = scriptSlime.VieSlime;
-        attaqueSlime = scriptSlime.AttaqueSlime;
-
         // On affiche les valeurs de vie et d'attaque du personnage
         textViePersonnage.text = "Vie: " + ViePersonnage;
         textAttaquePersonnage.text = "Attaque: " + AttaquePersonnage;
         textFinPartie.fontSize = 0; 
+
 }
 
 
@@ -132,6 +127,7 @@ public class DeplacementPersonnage : MonoBehaviour
                 GetComponent<Animator>().SetBool("attaque1", true);
                 peutAttaquer = false;
                 sourceAudio.PlayOneShot(sonAttaque1, 2f);
+                lancerAttaque();
                 Invoke("RelanceAttaque", 0.8f);
             }
             else
@@ -165,22 +161,6 @@ public class DeplacementPersonnage : MonoBehaviour
                 GetComponent<Animator>().SetBool("attaque3", false);
             }
 
-            // Si la touche les animations d'attaque sont vrai le personnage avance un peu ou recule un peu avec les attaques
-            if (GetComponent<Animator>().GetBool("attaque1") == true 
-            || GetComponent<Animator>().GetBool("attaque2") == true 
-            || GetComponent<Animator>().GetBool("attaque3") == true 
-            && peutAttaquer == false)
-            {
-                // Si le personnage peut attaquer, on ajuste la vélocité X
-                if (GetComponent<Rigidbody2D>().velocity.x > 0 )
-                {
-                    vitesseX += 2f;
-                }
-                else if (GetComponent<Rigidbody2D>().velocity.x < 0 )
-                {
-                    vitesseX -= 2f;
-                }
-            }
 
             // Si la vie du personnage est inférieure ou égale à 0, la partie est terminée
             if (ViePersonnage <= 0)
@@ -211,17 +191,16 @@ public class DeplacementPersonnage : MonoBehaviour
             GetComponent<Animator>().SetBool("saut", false);
         } 
 
-        // Si le personnage entre en collision avec un ennemi, il prend des dégats
-        if(collisionTrue.gameObject.name == "Slime")
+        if (collisionTrue.gameObject.name == "Slime" && peutEtreAttaquer == true) 
         {
-            // Si le personnage ne peut pas attaquer
-            if(peutAttaquer == false)
-            {
-                // quand le personnage attaque le slime prend du dommage
-                scriptSlime.VieSlime -= AttaquePersonnage;
-            }
+            // Si le personnage entre en collision avec un ennemi, il perd de la vie
+            ViePersonnage -= 1;
+            peutEtreAttaquer = false;
+            Invoke("RelancerPeutEtreAttaquer", 1f);
+            GetComponent<Animator>().SetBool("prendDmg", true);
         }
-   }
+    }
+   
 
     // Fonction qui gère les collisions du personnage avec les objets de téléportation
     void OnTriggerEnter2D(Collider2D TriggerTrue)
@@ -247,6 +226,12 @@ public class DeplacementPersonnage : MonoBehaviour
     {
         SceneManager.LoadScene("SceneIntro");
     }
+
+    void RelancerPeutEtreAttaquer()
+    {
+        peutEtreAttaquer = true;
+        GetComponent<Animator>().SetBool("prendDmg", false);
+    }
     
     // Fonction qui relance l'attaque
     void RelanceAttaque()
@@ -268,4 +253,23 @@ public class DeplacementPersonnage : MonoBehaviour
     textFinPartie.fontSize = 40; // Change this to the size you want
     }
     
+    void lancerAttaque()
+    {
+        GameObject objetClone;
+        objetClone = Instantiate(attaqueOriginale);
+        objetClone.SetActive(true);
+
+        if(GetComponent<SpriteRenderer>().flipX == false)
+                {
+                    objetClone.GetComponent<SpriteRenderer>().flipX = false;
+                    objetClone.transform.position = transform.position + new Vector3(0.3f, 0.2f, 0);
+                    objetClone.GetComponent<Rigidbody2D>().velocity= new Vector2(3f, 0);   
+                }
+                else
+                {
+                    objetClone.GetComponent<SpriteRenderer>().flipX = true;
+                    objetClone.transform.position = transform.position + new Vector3(-0.35f, 0.2f, 0);
+                    objetClone.GetComponent<Rigidbody2D>().velocity = new Vector2(-4f, 0);   
+                }
+    }
 }
