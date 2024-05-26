@@ -29,14 +29,14 @@ public class DeplacementPersonnage : MonoBehaviour
     public GameObject objetTeleportationBase; // objet teleportation dans l'environnent de gazon
     public GameObject objetTeleportationDonjon; // objet teleportation dans l'environnent du fort/donjon
     public GameObject attaqueOriginale; // objet teleportation
-    public int ViePersonnage;  // compteur de vie du personnage
-    public int AttaquePersonnage; // attaque du personnage
 
     public TextMeshProUGUI textViePersonnage; // text vie personnage
     public TextMeshProUGUI textAttaquePersonnage; // text attaque personnage
     public TextMeshProUGUI textFinPartie; // text fin de la partie
 
+    //VARIABLES ATTAQUE ET VIE DU PERSONNAGE
 
+    public int ViePersonnage;  // compteur de vie du personnage
 
     //Fonction qui s'exécute au démarrage du jeu
     void Start()
@@ -47,7 +47,6 @@ public class DeplacementPersonnage : MonoBehaviour
         finPartie = false;
         peutEtreAttaquer = true;
         ViePersonnage = 10;
-        AttaquePersonnage = 2;
 
         // Initialisation de la source audio
         sourceAudio = GetComponent<AudioSource>();
@@ -57,7 +56,6 @@ public class DeplacementPersonnage : MonoBehaviour
 
         // On affiche les valeurs de vie et d'attaque du personnage
         textViePersonnage.text = "Vie: " + ViePersonnage;
-        textAttaquePersonnage.text = "Attaque: " + AttaquePersonnage;
         textFinPartie.fontSize = 0; 
 
 }
@@ -71,7 +69,6 @@ public class DeplacementPersonnage : MonoBehaviour
         {
         // On récupère les valeurs de vie et d'attaque du slime
          textViePersonnage.text = "Vie: " + ViePersonnage;
-         textAttaquePersonnage.text = "Attaque: " + AttaquePersonnage;
 
             //On ajuste la variable vitesseX si la touche "a" ou "w" est appuyée
             if (Input.GetKey("a") || Input.GetKey("right"))
@@ -127,7 +124,7 @@ public class DeplacementPersonnage : MonoBehaviour
                 GetComponent<Animator>().SetBool("attaque1", true);
                 peutAttaquer = false;
                 sourceAudio.PlayOneShot(sonAttaque1, 2f);
-                lancerAttaque();
+                lancerAttaque1();
                 Invoke("RelanceAttaque", 0.8f);
             }
             else
@@ -141,6 +138,7 @@ public class DeplacementPersonnage : MonoBehaviour
                 GetComponent<Animator>().SetBool("attaque2", true);
                 peutAttaquer = false;
                 sourceAudio.PlayOneShot(sonAttaque2, 2f);
+                lancerAttaque2();
                 Invoke("RelanceAttaque", 0.8f);
             }
             else
@@ -154,6 +152,7 @@ public class DeplacementPersonnage : MonoBehaviour
                 GetComponent<Animator>().SetBool("attaque3", true);
                 peutAttaquer = false;
                 sourceAudio.PlayOneShot(sonAttaque3, 2f);
+                lancerAttaque3();
                 Invoke("RelanceAttaque", 0.9f);
             }
             else
@@ -199,6 +198,19 @@ public class DeplacementPersonnage : MonoBehaviour
             Invoke("RelancerPeutEtreAttaquer", 1f);
             GetComponent<Animator>().SetBool("prendDmg", true);
         }
+
+        if (collisionTrue.gameObject.name == "Pointe" && peutEtreAttaquer == true) 
+        {
+            // Si le personnage entre en collision avec un ennemi, il perd de la vie
+            ViePersonnage -= 1;
+            peutEtreAttaquer = false;
+            Invoke("RelancerPeutEtreAttaquer", 1f);
+            GetComponent<Animator>().SetBool("prendDmg", true);
+        }
+
+        
+
+        
     }
    
 
@@ -218,6 +230,15 @@ public class DeplacementPersonnage : MonoBehaviour
             estTeleporter = true;
             Invoke("RelancerTeleportation", 3f);
             gameObject.transform.position = objetTeleportationBase.transform.position;
+        }
+
+        if (TriggerTrue.gameObject.tag == "Feu")
+        {
+            // Si le personnage entre en collision avec un ennemi, il perd de la vie
+            ViePersonnage -= 1;
+            peutEtreAttaquer = false;
+            Invoke("RelancerPeutEtreAttaquer", 1f);
+            GetComponent<Animator>().SetBool("prendDmg", true);
         }
     }
 
@@ -253,7 +274,7 @@ public class DeplacementPersonnage : MonoBehaviour
     textFinPartie.fontSize = 40; // Change this to the size you want
     }
     
-    void lancerAttaque()
+    void lancerAttaque1()
     {
         GameObject objetClone;
         objetClone = Instantiate(attaqueOriginale);
@@ -263,13 +284,56 @@ public class DeplacementPersonnage : MonoBehaviour
                 {
                     objetClone.GetComponent<SpriteRenderer>().flipX = false;
                     objetClone.transform.position = transform.position + new Vector3(0.3f, 0.2f, 0);
-                    objetClone.GetComponent<Rigidbody2D>().velocity= new Vector2(3f, 0);   
+                    objetClone.GetComponent<Rigidbody2D>().velocity= new Vector2(4f, 0);   
                 }
                 else
                 {
                     objetClone.GetComponent<SpriteRenderer>().flipX = true;
                     objetClone.transform.position = transform.position + new Vector3(-0.35f, 0.2f, 0);
-                    objetClone.GetComponent<Rigidbody2D>().velocity = new Vector2(-4f, 0);   
+                    objetClone.GetComponent<Rigidbody2D>().velocity = new Vector2(-4f, 0);  
+                    objetClone.GetComponent<Rigidbody2D>().constraints = RigidbodyConstraints2D.FreezePositionY;
                 }
     }
+
+            void lancerAttaque2()
+        {
+            GameObject objetClone;
+            objetClone = Instantiate(attaqueOriginale);
+            objetClone.SetActive(true);
+        
+            if(GetComponent<SpriteRenderer>().flipX == false)
+            {
+                objetClone.GetComponent<SpriteRenderer>().flipX = false;
+                objetClone.transform.position = transform.position + new Vector3(0.3f, 0.2f, 0);
+                objetClone.GetComponent<Rigidbody2D>().velocity= new Vector2(4f, 2f); // Adjusted velocity
+            }
+            else
+            {
+                objetClone.GetComponent<SpriteRenderer>().flipX = true;
+                objetClone.transform.position = transform.position + new Vector3(-0.35f, 0.2f, 0);
+                objetClone.GetComponent<Rigidbody2D>().velocity = new Vector2(-4f, 2f); // Adjusted velocity
+            }
+        }
+
+        void lancerAttaque3()
+        {
+            GameObject objetClone;
+            objetClone = Instantiate(attaqueOriginale);
+            objetClone.SetActive(true);
+        
+            if(GetComponent<SpriteRenderer>().flipX == false)
+            {
+                objetClone.GetComponent<SpriteRenderer>().flipX = false;
+                objetClone.transform.position = transform.position + new Vector3(0.3f, 0.2f, 0);
+                objetClone.GetComponent<Rigidbody2D>().velocity= new Vector2(4f, -2f); // Adjusted velocity
+            }
+            else
+            {
+                objetClone.GetComponent<SpriteRenderer>().flipX = true;
+                objetClone.transform.position = transform.position + new Vector3(-0.35f, 0.2f, 0);
+                objetClone.GetComponent<Rigidbody2D>().velocity = new Vector2(-4f, -2f); // Adjusted velocity
+            }
+        }
+
+
 }

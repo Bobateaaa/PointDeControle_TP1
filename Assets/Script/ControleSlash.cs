@@ -5,6 +5,7 @@ using UnityEngine;
 public class ControleSlash : MonoBehaviour
 {
 
+
     // Start is called before the first frame update
     void Start()
     {
@@ -20,11 +21,13 @@ public class ControleSlash : MonoBehaviour
     
     void OnTriggerEnter2D(Collider2D collision)
     {
+
         if(collision.gameObject.tag == "Ennemi")
         {
+            Destroy(collision.gameObject, 1f);
+            Destroy(collision.gameObject.GetComponent<Collider2D>());
             GetComponent<Rigidbody2D>().angularVelocity = 0;
-            Destroy(collision.gameObject); // Destroy the enemy
-            Destroy(gameObject, 0.4f);
+            Destroy(gameObject);
 
         }
     }
