@@ -1,0 +1,1452 @@
+fileFormatVersion: 2
+guid: d421abc7fba4d604197d347498c6e25c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -496878581441740545
+    second: PENUP_20240528_170204_0
+  - first:
+      213: -8910040391929903944
+    second: PENUP_20240528_170204_1
+  - first:
+      213: 183811705867738893
+    second: PENUP_20240528_170204_2
+  - first:
+      213: -8975849920069318736
+    second: PENUP_20240528_170204_3
+  - first:
+      213: 5227422193901036995
+    second: PENUP_20240528_170204_4
+  - first:
+      213: -1130906440673787571
+    second: PENUP_20240528_170204_5
+  - first:
+      213: -7140832398368538667
+    second: PENUP_20240528_170204_6
+  - first:
+      213: 5668255757691195117
+    second: PENUP_20240528_170204_7
+  - first:
+      213: -8820373496459103957
+    second: PENUP_20240528_170204_8
+  - first:
+      213: 7766932378446722567
+    second: PENUP_20240528_170204_9
+  - first:
+      213: 4453247144919336229
+    second: PENUP_20240528_170204_10
+  - first:
+      213: -6601436211663283774
+    second: PENUP_20240528_170204_11
+  - first:
+      213: 7385850275900203503
+    second: PENUP_20240528_170204_12
+  - first:
+      213: -5512268326798444215
+    second: PENUP_20240528_170204_13
+  - first:
+      213: -8796685966147843527
+    second: PENUP_20240528_170204_14
+  - first:
+      213: 8889909035400106890
+    second: PENUP_20240528_170204_15
+  - first:
+      213: 5614349817844000024
+    second: PENUP_20240528_170204_16
+  - first:
+      213: 1743726317390556240
+    second: PENUP_20240528_170204_17
+  - first:
+      213: -8598490468841218129
+    second: PENUP_20240528_170204_18
+  - first:
+      213: 1141476864787863830
+    second: PENUP_20240528_170204_19
+  - first:
+      213: -504335426259242754
+    second: PENUP_20240528_170204_20
+  - first:
+      213: -1258914020650947941
+    second: PENUP_20240528_170204_21
+  - first:
+      213: -1667063365910714592
+    second: PENUP_20240528_170204_22
+  - first:
+      213: 5147791634035741322
+    second: PENUP_20240528_170204_23
+  - first:
+      213: -4906909644267538410
+    second: PENUP_20240528_170204_24
+  - first:
+      213: 3696051133343509390
+    second: PENUP_20240528_170204_25
+  - first:
+      213: -8759249406910609573
+    second: PENUP_20240528_170204_26
+  - first:
+      213: -2150215800450923662
+    second: PENUP_20240528_170204_27
+  - first:
+      213: 4461487571844289182
+    second: PENUP_20240528_170204_28
+  - first:
+      213: -2036154454043807311
+    second: PENUP_20240528_170204_29
+  - first:
+      213: 1851923549823881147
+    second: PENUP_20240528_170204_30
+  - first:
+      213: -8347652938693556130
+    second: PENUP_20240528_170204_31
+  - first:
+      213: 6438765944053953196
+    second: PENUP_20240528_170204_32
+  - first:
+      213: 1886664128849250451
+    second: PENUP_20240528_170204_33
+  - first:
+      213: 4269705128289184374
+    second: PENUP_20240528_170204_34
+  - first:
+      213: -3961082410194042748
+    second: PENUP_20240528_170204_35
+  - first:
+      213: -2795744857055851336
+    second: PENUP_20240528_170204_36
+  - first:
+      213: 1799154802929206796
+    second: PENUP_20240528_170204_37
+  - first:
+      213: -4504038685054670665
+    second: PENUP_20240528_170204_38
+  - first:
+      213: 2801242710969479238
+    second: PENUP_20240528_170204_39
+  - first:
+      213: 3841409746118729628
+    second: PENUP_20240528_170204_40
+  - first:
+      213: 5424719365065994581
+    second: PENUP_20240528_170204_41
+  - first:
+      213: -3440616539830738981
+    second: PENUP_20240528_170204_42
+  - first:
+      213: 4847776841141823732
+    second: PENUP_20240528_170204_43
+  - first:
+      213: 8150308759690792004
+    second: PENUP_20240528_170204_44
+  - first:
+      213: 7710142002311496775
+    second: PENUP_20240528_170204_45
+  - first:
+      213: -9107114792301666983
+    second: PENUP_20240528_170204_46
+  - first:
+      213: 4182965213613021558
+    second: PENUP_20240528_170204_47
+  - first:
+      213: 4970792756165427156
+    second: PENUP_20240528_170204_48
+  - first:
+      213: -4614434585321398060
+    second: PENUP_20240528_170204_49
+  - first:
+      213: 1738525923132598054
+    second: PENUP_20240528_170204_50
+  - first:
+      213: -1116929184627588148
+    second: PENUP_20240528_170204_51
+  - first:
+      213: -6888478307884327744
+    second: PENUP_20240528_170204_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_0
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 881
+        width: 82
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff04aa0109bba19f0800000000000000
+      internalID: -496878581441740545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_1
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 895
+        width: 91
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4c2a0987d295480800000000000000
+      internalID: -8910040391929903944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_2
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 909
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f1ec9c5c70d8200800000000000000
+      internalID: 183811705867738893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_3
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 876
+        width: 61
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7cc05cd006f6380800000000000000
+      internalID: -8975849920069318736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_4
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 914
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5e67e0ac88b8840800000000000000
+      internalID: 5227422193901036995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_5
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 901
+        width: 123
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41007185963e40f0800000000000000
+      internalID: -1130906440673787571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_6
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 808
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df74a674caa6ec90800000000000000
+      internalID: -7140832398368538667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_7
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 793
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee0f357490b9ae40800000000000000
+      internalID: 5668255757691195117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_8
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 777
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21f84d890db79580800000000000000
+      internalID: -8820373496459103957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_9
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 660
+        width: 118
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706fbc3e8dfa9cb60800000000000000
+      internalID: 7766932378446722567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_10
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 776
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52580f91fac1dcd30800000000000000
+      internalID: 4453247144919336229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_11
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 698
+        width: 88
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9d86ccdbcf264a0800000000000000
+      internalID: -6601436211663283774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_12
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 776
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1a04ba1bfcf7660800000000000000
+      internalID: 7385850275900203503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_13
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 683
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949ba8a792d7083b0800000000000000
+      internalID: -5512268326798444215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_14
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 660
+        width: 134
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a081b78b4ebe580800000000000000
+      internalID: -8796685966147843527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_15
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 685
+        width: 201
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a831f8cba2d4f5b70800000000000000
+      internalID: 8889909035400106890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_16
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 682
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815ee59c96d2aed40800000000000000
+      internalID: 5614349817844000024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_17
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 713
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c6095d8d5f23810800000000000000
+      internalID: 1743726317390556240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_18
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 682
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf1320b9760ca880800000000000000
+      internalID: -8598490468841218129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_19
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 660
+        width: 125
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619d105292757df00800000000000000
+      internalID: 1141476864787863830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_20
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 627
+        width: 112
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef03c261a9d3009f0800000000000000
+      internalID: -504335426259242754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_21
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 704
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a67544e50778ee0800000000000000
+      internalID: -1258914020650947941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_22
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 679
+        width: 85
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02723d083b66dd8e0800000000000000
+      internalID: -1667063365910714592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_23
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 629
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a829d6c8731a07740800000000000000
+      internalID: 5147791634035741322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_24
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 581
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618be7c2da727ebb0800000000000000
+      internalID: -4906909644267538410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_25
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 406
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8bae9a5ce20b4330800000000000000
+      internalID: 3696051133343509390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_26
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 471
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57ca0aa215e07680800000000000000
+      internalID: -8759249406910609573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_27
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 409
+        width: 36
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273c0bf2f16e822e0800000000000000
+      internalID: -2150215800450923662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 424
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9259910f436aed30800000000000000
+      internalID: 4461487571844289182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_29
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 424
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1b3e2ef402eb3e0800000000000000
+      internalID: -2036154454043807311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_30
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 423
+        width: 77
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfce6a18aa53b910800000000000000
+      internalID: 1851923549823881147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_31
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 421
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58cce841ed272c80800000000000000
+      internalID: -8347652938693556130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_32
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 414
+        width: 121
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2f73713871b5950800000000000000
+      internalID: 6438765944053953196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_33
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 417
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398088a7707ce2a10800000000000000
+      internalID: 1886664128849250451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_34
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 372
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a275b313a014b30800000000000000
+      internalID: 4269705128289184374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_35
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 418
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480065ed8886709c0800000000000000
+      internalID: -3961082410194042748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_36
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 288
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc8f807dd48339d0800000000000000
+      internalID: -2795744857055851336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_37
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 293
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06888cc2c1e7f810800000000000000
+      internalID: 1799154802929206796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_38
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 295
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8e2baeda07e71c0800000000000000
+      internalID: -4504038685054670665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_39
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 284
+        width: 79
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640fcfc676300e620800000000000000
+      internalID: 2801242710969479238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_40
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 292
+        width: 187
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f512abfcd6f4530800000000000000
+      internalID: 3841409746118729628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_41
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 185
+        width: 86
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551f0f86589784b40800000000000000
+      internalID: 5424719365065994581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_42
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 195
+        width: 86
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf1e077c797040d0800000000000000
+      internalID: -3440616539830738981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_43
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 84
+        width: 113
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8af963a53c64340800000000000000
+      internalID: 4847776841141823732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_44
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 65
+        width: 90
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ccf1f72a6bb1170800000000000000
+      internalID: 8150308759690792004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_45
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 74
+        width: 90
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744889f0d4deffa60800000000000000
+      internalID: 7710142002311496775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_46
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 78
+        width: 87
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d572419570d9180800000000000000
+      internalID: -9107114792301666983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_47
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 114
+        width: 93
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679583113b0ec0a30800000000000000
+      internalID: 4182965213613021558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_48
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 109
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df3353ecadcbf440800000000000000
+      internalID: 4970792756165427156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_49
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 74
+        width: 90
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d024a6613c36ffb0800000000000000
+      internalID: -4614434585321398060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_50
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 84
+        width: 90
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6276021bd1c702810800000000000000
+      internalID: 1738525923132598054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_51
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 87
+        width: 88
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3810703dedf70f0800000000000000
+      internalID: -1116929184627588148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PENUP_20240528_170204_52
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 117
+        width: 98
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc1297c9753760a0800000000000000
+      internalID: -6888478307884327744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PENUP_20240528_170204_0: -496878581441740545
+      PENUP_20240528_170204_1: -8910040391929903944
+      PENUP_20240528_170204_10: 4453247144919336229
+      PENUP_20240528_170204_11: -6601436211663283774
+      PENUP_20240528_170204_12: 7385850275900203503
+      PENUP_20240528_170204_13: -5512268326798444215
+      PENUP_20240528_170204_14: -8796685966147843527
+      PENUP_20240528_170204_15: 8889909035400106890
+      PENUP_20240528_170204_16: 5614349817844000024
+      PENUP_20240528_170204_17: 1743726317390556240
+      PENUP_20240528_170204_18: -8598490468841218129
+      PENUP_20240528_170204_19: 1141476864787863830
+      PENUP_20240528_170204_2: 183811705867738893
+      PENUP_20240528_170204_20: -504335426259242754
+      PENUP_20240528_170204_21: -1258914020650947941
+      PENUP_20240528_170204_22: -1667063365910714592
+      PENUP_20240528_170204_23: 5147791634035741322
+      PENUP_20240528_170204_24: -4906909644267538410
+      PENUP_20240528_170204_25: 3696051133343509390
+      PENUP_20240528_170204_26: -8759249406910609573
+      PENUP_20240528_170204_27: -2150215800450923662
+      PENUP_20240528_170204_28: 4461487571844289182
+      PENUP_20240528_170204_29: -2036154454043807311
+      PENUP_20240528_170204_3: -8975849920069318736
+      PENUP_20240528_170204_30: 1851923549823881147
+      PENUP_20240528_170204_31: -8347652938693556130
+      PENUP_20240528_170204_32: 6438765944053953196
+      PENUP_20240528_170204_33: 1886664128849250451
+      PENUP_20240528_170204_34: 4269705128289184374
+      PENUP_20240528_170204_35: -3961082410194042748
+      PENUP_20240528_170204_36: -2795744857055851336
+      PENUP_20240528_170204_37: 1799154802929206796
+      PENUP_20240528_170204_38: -4504038685054670665
+      PENUP_20240528_170204_39: 2801242710969479238
+      PENUP_20240528_170204_4: 5227422193901036995
+      PENUP_20240528_170204_40: 3841409746118729628
+      PENUP_20240528_170204_41: 5424719365065994581
+      PENUP_20240528_170204_42: -3440616539830738981
+      PENUP_20240528_170204_43: 4847776841141823732
+      PENUP_20240528_170204_44: 8150308759690792004
+      PENUP_20240528_170204_45: 7710142002311496775
+      PENUP_20240528_170204_46: -9107114792301666983
+      PENUP_20240528_170204_47: 4182965213613021558
+      PENUP_20240528_170204_48: 4970792756165427156
+      PENUP_20240528_170204_49: -4614434585321398060
+      PENUP_20240528_170204_5: -1130906440673787571
+      PENUP_20240528_170204_50: 1738525923132598054
+      PENUP_20240528_170204_51: -1116929184627588148
+      PENUP_20240528_170204_52: -6888478307884327744
+      PENUP_20240528_170204_6: -7140832398368538667
+      PENUP_20240528_170204_7: 5668255757691195117
+      PENUP_20240528_170204_8: -8820373496459103957
+      PENUP_20240528_170204_9: 7766932378446722567
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

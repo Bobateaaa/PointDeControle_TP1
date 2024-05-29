@@ -5,13 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class ReturnerAccueil : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
+    //Fonction qui permet de retourner à l'accueil
     void Update()
     {
         if(Input.GetKey("backspace"))

@@ -304,8 +304,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: OBJECTIF DU JEU
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: b188c1a6fa3a6e74d9226c8fa2d6afa0, type: 2}
-  m_sharedMaterial: {fileID: 3689875440659835518, guid: b188c1a6fa3a6e74d9226c8fa2d6afa0, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -772,9 +772,9 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -157.00311, y: -25.478851}
+  m_AnchoredPosition: {x: -158.81653, y: 50.975525}
   m_SizeDelta: {x: 200, y: 50}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_Pivot: {x: 0.5, y: 0.87981737}
 --- !u!114 &1739732681
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -795,10 +795,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "L'objectif du jeu sera d'\xE9liminer tous les monstres dans le fort."
+  m_text: "Pour gagner, il faut remasser tous les 5 fragments d'\xE2me dans le donjon
+    sans mourir. "
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -822,8 +823,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 32.29
+  m_fontSizeBase: 32.29
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
